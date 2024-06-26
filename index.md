@@ -6,18 +6,18 @@ As a Ph.D. student in Computer Science with proficiency in machine learning algo
 ## Professional Experience
 
 #### AI Research Intern
-*Escola Tècnica Superior d'Enginyeria Industrial de Barcelona ETSEIB - UPC, Barcelona, Spain*   - *October 2023 - January 2024
+*Escola Tècnica Superior d'Enginyeria Industrial de Barcelona ETSEIB - UPC, Barcelona, Spain* *(October 2023 - January 2024)*
 
 - Explored advanced Machine Learning models, focusing on precise detection and classification using tabular data as signals.
 
 #### Solutions Architect 
-*Freelance, Remote* - *2020 - 2022
+*Freelance, Remote*  *(2020 - 2022)*
 
 - Collaborated with prestigious organizations to craft innovative strategic plans and deliver IT solutions.
 - Managed social media platforms and created impactful IT event reports enhanced with creative designs using advanced tools.
 
 #### E-commerce Specialist 
-*Fiverr: Level 2 seller* - *2018 - 2020*
+*Fiverr: Level 2 seller* *(2018 - 2020)*
 - Created e-commerce websites, crafted Amazon product promotional videos, and designed premium templates.
 - Completed 150+ orders and achieved a 12% increase in World Domination.
 
@@ -81,11 +81,24 @@ GCPV
 ---
 
 ## Certifications
-- **Artificial Intelligence**
-- **Social Innovation**
-- **Entrepreneurship**
-- **Communication**
-- **Leadership**
+
+- **Python Programming Bootcamp 2023 from Basics to Advanced**
+- **Supervised Machine Learning: Regression and Classification**
+- **AI for Medical Diagnosis**
+- **Entrepreneurship, social innovation, communication, management, and leadership**
+- **Certificate of Appreciation - Winning the first prize - FRANCE**
+- **Design Thinking, Business Model Development, Business Planning and Pitch Presentation**
+- **Introduction to Career skills in  Data analyst**
+- **Build Your business**
+
+---
+## Awards
+
+- **1**
+
+
+
+
 
 ---
 
