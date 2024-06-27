@@ -26,22 +26,33 @@ As a Ph.D. student in Computer Science with proficiency in machine learning algo
 ## Education
 #### Ph.D. in Computer Science (2024 - Present)
 *Faculty of Sciences of Monastir, University of Monastir*
-<!-- - Research in Medical Image Analysis using Artificial Intelligence -->
+- Grade: PhD student researcher at (LaTICE) <img src="images/Latice.PNG?raw=true" style="width:100px; height:30px;" alt="Latice"/>
+- Research in Medical Image Analysis using Artificial Intelligence 
 
 #### Research Master’s Degree in Computer Science, Intelligent Systems (2022 - 2023)
 *The Higher National Engineering School of Tunis, ENSIT - M2*
-<!-- - Achieved 99% accuracy for segmentation and 97% for classification of DR grades, highly competitive compared to the latest findings in 2023.-->
+- Grade: Grade: Student researcher at (LaTICE) <img src="images/Latice.PNG?raw=true" style="width:100px; height:30px;" alt="Latice"/>
+- Final Project : achieved 99% accuracy for segmentation and 97% for classification of DR grades, highly competitive compared to the latest findings in 2023.
 
 #### Research Master’s Degree in Embedded Systems (2021 - 2023)
 *The Higher Institute of Applied Sciences and Technology of Kasserine*
+- Grade: Student researcher at (URMAN) Lab - University of Kairouan
+- Final Project : explored various machine learning models, achieving a 99% accuracy rate in classifying industrial system faults.
 
-<!-- - Explored various machine learning models, achieving a 99% accuracy rate in classifying industrial system faults. -->
+#### Higher Institute of Applied Sciences and Technology of Mahdia (2014-2017)
+*Applied license in computer science and electronics*
+
+- I created "Strategia," a strategic website using WordPress and premium tools. Designed
+specifically for associations and organizations, this platform simplifies the strategic planning
+process. Entrepreneurs can now boost their creativity on digital platforms with just a few
+clicks
+
 
 ---
 
 ## Skills
-- **Programming Languages:** Python
-- **Technical Skills:** Data Cleaning and Preprocessing, Data Visualization, Machine Learning, Reporting
+- **Programming Languages:** Python, Matlab, C
+- **Technical Skills:** Data Cleaning and Preprocessing, Data Visualization, Data modeling, Machine Learning, Reporting
 
 ---
 
