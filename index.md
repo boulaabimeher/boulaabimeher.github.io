@@ -60,7 +60,7 @@ As a Ph.D. student in Computer Science with proficiency in machine learning algo
 - Final Project : explored various machine learning models, achieving a 99% accuracy rate in classifying industrial system faults.
 
 #### Applied license in computer science and electronics  (2014-2017)
-[*Higher Institute of Applied Sciences and Technology of Mahdia*](URL) <br>
+[*Higher Institute of Applied Sciences and Technology of Mahdia*](https://issatmh.rnu.tn/) <br>
 <img src="images/logo-issat-mahdia.png?raw=true" style="width:20%; height:20%;" alt="logo_university_kairouen"/> <br>
 
 - I created "Strategia," a strategic website using WordPress and premium tools. Designed
