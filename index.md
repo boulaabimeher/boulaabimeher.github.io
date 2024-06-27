@@ -1,10 +1,11 @@
-## Bio
-I am a seasoned freelancer offering comprehensive IT services tailored to your needs. Whether it's crafting insightful reports, designing user-friendly interfaces, or developing cutting-edge ML/DL models, I've got you covered. With expertise in Python, I specialize in data preprocessing, cleaning, and visualization to extract valuable insights from your datasets. Additionally, I excel in segmentation, classification, and detection tasks across various domains including agriculture and medical imaging. 
-**Simply provide the dataset, and together, we'll devise the optimal solution to meet your objectives.**
+## 📌 Bio
+I am a seasoned freelancer 💻 offering comprehensive IT services tailored to your needs. Whether it's crafting insightful reports, designing user-friendly interfaces, or developing cutting-edge ML/DL models, I've got you covered. With expertise in Python, I specialize in data preprocessing, cleaning, and visualization to extract valuable insights from your datasets. Additionally, I excel in segmentation, classification, and detection tasks across various domains including agriculture and medical imaging. <br>
+
+*🔔 Simply provide the dataset, and together, we'll devise the optimal solution to meet your objectives.👌*
 
 ---
 
-## Skills
+## 📌 Skills
 
 - **Programming Languages:**
 Python, Matlab, C/C++, SQL
@@ -20,7 +21,7 @@ Problem-Solving, Analytical Thinking, Research Skills, Communication Skills, Tea
 
 ---
 
-## Professional Experience
+## 📌 Professional Experience
 
 #### AI Research Intern
 [*Escola Tècnica Superior d'Enginyeria Industrial de Barcelona ETSEIB - UPC, Barcelona, Spain*](https://etseib.upc.edu/es) (*October 2023 - January 2024*)
@@ -40,14 +41,14 @@ Problem-Solving, Analytical Thinking, Research Skills, Communication Skills, Tea
 - Completed 150+ orders and achieved a 12% increase in World Domination.
 
 ---
-## Supervisor :
+## 📌 Supervisor :
 
 - **Co-supervisor of a master's research project (M2) at [ENSIT](https://www.ensit.tn/):** <br>
 *Title: Automated glaucoma detection using AI with justification of recommendations* <br>
 <img src="images/esnit.jfif?raw=true" style="width:20%; height:20%;" alt="ENSIT"/>
 
 ---
-## Education
+## 📌 Education
 #### Ph.D. in Computer Science (2024 - Present)
 [*Faculty of Sciences of Monastir, University of Monastir*](https://fsm.rnu.tn/) <br>
 *Grade: PhD student researcher at ([LaTICE](http://www.latice.rnu.tn/))* <br>
@@ -82,7 +83,7 @@ clicks
 
 ---
 
-## Projects
+## 📌 Projects
 
 #### 1. A Deep Learning System for Diabetic Retinopathy, Lesion Segmentation and Disease Grading *2023*
 
@@ -118,7 +119,7 @@ GCPV
 
 ---
 
-## Certifications
+## 📌 Certifications
 [*Show credential*](https://www.linkedin.com/in/boulaabi-meher/details/certifications/)
 - Python Programming Bootcamp 2023 from Basics to Advanced
 - Supervised Machine Learning: Regression and Classification
@@ -130,16 +131,16 @@ GCPV
 - Build Your business
 
 ---
-## Awards & Volunteering
+## 📌 Awards & Volunteering
 
-- #### Elite Freelancer Participant - Tunisia Program
+- #### Elite Freelancer Participant - Tunisia Program 🏆
 [*uprodit*](https://www.facebook.com/uprodit/)
 
 Selected among 20 elite freelancers in Tunisia, I participated in a prestigious program offering intensive training in communication and leadership. Under the patronage of Madame la Cheffe du Gouvernement Najla Bouden and esteemed members of the government and business community, we presented our work and engaged with influential figures. This impactful program fostered invaluable connections with fellow freelancers and government officials, aiming to shape the future of freelancing in Tunisia and advocate for legislation to support young entrepreneurs.
 
 <img src="images/uprodit.jfif?raw=true" style="width:50%;" /> 
 
-- #### Club Project Manager
+- #### Club Project Manager 🏆
  [*Young Leaders Entrepreneurs*](https://www.facebook.com/Youngleadersentrepreneurs/)
 
 As the Project Manager of "Peace Lab Kasserine," a club established in a disadvantaged region of Tunisia ( KASSERINE ), I spearheaded initiatives to empower youth and promote peace, art, and theater in an area once plagued by terrorism. Leading cross-functional teams, we implemented programs fostering communication, community involvement, and socio-economic development. Our projects included collecting gifts for cancer-stricken children, organizing internships in business, IT, and the arts, and engaging over 100 young individuals in various activities. With support from YLE, we received valuable resources and training, enabling us to deliver impactful projects that brought positive change to the region. Through meticulous planning, effective communication, and strategic decision-making, I ensured the successful execution of projects on time and within budget, contributing to the transformation and advancement of the community.
@@ -147,7 +148,7 @@ As the Project Manager of "Peace Lab Kasserine," a club established in a disadva
 [![Openning of our project](https://img.youtube.com/vi/s6ae2wY-7Ms/0.jpg)](https://www.youtube.com/watch?v=s6ae2wY-7Ms)
 
 
-- #### Active theatre artist and cultural animator
+- #### Active theatre artist and cultural animator 🏆
 [*Ministry of Culture of Tunisia*](https://www.culture.gov.tn/)
 
 I embarked on a transformative journey that shaped my passion for social and cultural engagement. As an active theatre artist and cultural animator, I took on significant responsibilities from the age of 16, organizing and leading numerous community projects, internships, and large-scale summer programs at both school and university levels. These experiences, spanning over 100 projects across Tunisia, including Mahdia, Kasserine, Sfax, and Sousse, allowed me to collaborate with the Ministry of Culture and Ministry of Education. Each project enriched my skills, fostering a deep commitment to societal change and cultural development. This period was pivotal in making me the proactive and socially conscious individual I am today. As the saying goes, "The future belongs to those who believe in the beauty of their dreams."
@@ -155,12 +156,9 @@ I embarked on a transformative journey that shaped my passion for social and cul
 <img src="images/tunisia_logo.png?raw=true" style="width:50%;" alt="Tunisia Logo"/>
 
 
-
-
-
 ---
 
-## Languages
+## 📌Languages
 - **Arabic:** Native
 - **English:** Full professional proficiency
 - **French:** Full professional proficiency
