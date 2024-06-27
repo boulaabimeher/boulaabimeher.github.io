@@ -32,7 +32,7 @@ As a Ph.D. student in Computer Science with proficiency in machine learning algo
 ## Supervisor :
 
 - **Co-supervisor of a master's research project (M2) at [ENSIT](https://www.ensit.tn/):**
-*Title: Automated glaucoma detection using AI with justification of recommendations*
+*Title: Automated glaucoma detection using AI with justification of recommendations* <br>
 <img src="images/esnit.jfif?raw=true" style="width:20%; height:20%;" alt="ENSIT"/>
 
 ---
