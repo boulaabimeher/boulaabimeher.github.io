@@ -5,9 +5,7 @@ description: >
   <br> Location: Monastir, Tunisia <br>
   <br> Phone: +216 54858691 <br>
   <br> Email: boulaabimeher.54@gmail.com <br>
-  <br> <a href="https://www.linkedin.com/in/boulaabi-meher/">My LinkedIn Profile</a> <br>
-  <br> ![LinkedIn followers](https://img.shields.io/badge/LinkedIn-1k-blue?style=flat-square&logo=Linkedin&logoColor=white) <br>
-  
+  <br> <a href="https://www.linkedin.com/in/boulaabi-meher/">My LinkedIn Profile</a> <br>  
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
