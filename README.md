@@ -4,4 +4,9 @@ Welcome to my portfolio! I am committed to keeping this information current and 
 
 Feel free to explore my sections on Education, Experience, Languages, and Projects.
 
+# MEHER BOULAABI
+
+![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/boulaabi-meher/)
+
+
 Thank you for visiting!
