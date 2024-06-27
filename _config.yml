@@ -7,7 +7,8 @@ description: >
   <br> Phone: +216 54858691 <br>
   <br> Email: boulaabimeher.54@gmail.com <br>
   <a href="https://www.linkedin.com/in/boulaabi-meher/">My LinkedIn Profile</a>
-  
+  ![LinkedIn followers](https://img.shields.io/badge/LinkedIn-1k-blue?style=flat-square&logo=Linkedin&logoColor=white)
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
