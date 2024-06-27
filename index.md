@@ -73,7 +73,7 @@ clicks
 
 ## Projects
 
-#### A Deep Learning System for Diabetic Retinopathy, Lesion Segmentation and Disease Grading *2023*
+#### 1. A Deep Learning System for Diabetic Retinopathy, Lesion Segmentation and Disease Grading *2023*
 
 - **Description:**
 
@@ -84,7 +84,7 @@ In this project, we tackled two significant challenges using the IDRiD dataset. 
 
 - **Technologies Used:** Python, DeepLabV3+, SwinTransformer.
 
-#### Dashboard for Systems Fault Prediction and Classification *2024*
+#### 2. Dashboard for Systems Fault Prediction and Classification *2024*
 
 - **Description:**
 
