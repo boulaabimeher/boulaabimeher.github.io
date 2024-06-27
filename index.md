@@ -23,7 +23,7 @@ As a Ph.D. student in Computer Science with proficiency in machine learning algo
 - Managed social media platforms and created impactful IT event reports enhanced with creative designs using advanced tools.
 
 #### E-commerce Specialist 
-[*Fiverr: Level 2 seller*](www.fiverr.com) *(2018 - 2020)*
+[*Fiverr: Level 2 seller*](https://www.fiverr.com/) *(2018 - 2020)*
 
 - Created e-commerce websites, crafted Amazon product promotional videos, and designed premium templates.
 - Completed 150+ orders and achieved a 12% increase in World Domination.
