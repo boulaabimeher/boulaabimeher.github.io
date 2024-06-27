@@ -5,8 +5,18 @@ I am a seasoned freelancer offering comprehensive IT services tailored to your n
 ---
 
 ## Skills
-- **Programming Languages:** Python, Matlab, C
-- **Technical Skills:** Data Cleaning and Preprocessing, Data Visualization, Data modeling, Machine Learning, Reporting
+
+- **Programming Languages:**
+Python, Matlab, C/C++, SQL
+
+- **Technical Skills:**
+Data Cleaning and Preprocessing, Data Visualization, Data Modeling, Machine Learning, Deep Learning, Statistical Analysis, Natural Language Processing (NLP), Computer Vision, Cloud Computing (Azure), Model Deployment and Serving (Docker, Kubernetes), Reporting and Dashboarding (Tableau, Power BI), Reinforcement Learning, Time Series Analysis, Optimization Techniques
+
+- **Tools and Frameworks:**
+TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, NumPy, SciPy, Matplotlib, Seaborn, Jupyter Notebooks, Apache Hadoop, Apache Spark, SQL Databases (MySQL, PostgreSQL)
+
+- **Soft Skills:**
+Problem-Solving, Analytical Thinking, Research Skills, Communication Skills, Team Collaboration, Project Management, Critical Thinking, Adaptability and Continuous Learning
 
 ---
 
