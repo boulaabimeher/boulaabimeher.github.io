@@ -6,9 +6,7 @@ As a Ph.D. student in Computer Science with proficiency in machine learning algo
 ## Professional Experience
 
 #### AI Research Intern
-<img src="images/etseib_upc_logo.jfif?raw=true" style="width:30px; height:30px;" alt="etseib upc logo"/> *Escola Tècnica Superior d'Enginyeria Industrial de Barcelona ETSEIB - UPC, Barcelona, Spain* *(October 2023 - January 2024)*
-
-
+*Escola Tècnica Superior d'Enginyeria Industrial de Barcelona ETSEIB - UPC, Barcelona, Spain* *(October 2023 - January 2024)*
 - Explored advanced Machine Learning models, focusing on precise detection and classification using tabular data as signals.
 
 #### Solutions Architect 
@@ -18,7 +16,7 @@ As a Ph.D. student in Computer Science with proficiency in machine learning algo
 - Managed social media platforms and created impactful IT event reports enhanced with creative designs using advanced tools.
 
 #### E-commerce Specialist 
-*Fiverr: Level 2 seller* *(2018 - 2020)* <img src="images/fiverr.png?raw=true" style="width:30px; height:30px;" alt="Fiverr logo"/>
+*Fiverr: Level 2 seller* *(2018 - 2020)*
 
 - Created e-commerce websites, crafted Amazon product promotional videos, and designed premium templates.
 - Completed 150+ orders and achieved a 12% increase in World Domination.
@@ -27,15 +25,15 @@ As a Ph.D. student in Computer Science with proficiency in machine learning algo
 
 ## Education
 #### Ph.D. in Computer Science (2024 - Present)
-*Faculty of Sciences of Monastir, University of Monastir* <img src="images/logo_university_monastir.png?raw=true" style="width:30px; height:30px;" alt="university monastir logo"/>
+*Faculty of Sciences of Monastir, University of Monastir*
 <!-- - Research in Medical Image Analysis using Artificial Intelligence -->
 
 #### Research Master’s Degree in Computer Science, Intelligent Systems (2022 - 2023)
-*The Higher National Engineering School of Tunis, ENSIT - M2* <img src="images/esnit.jfif?raw=true" style="width:30px; height:30px;" alt="ENSIT logo"/>
+*The Higher National Engineering School of Tunis, ENSIT - M2*
 <!-- - Achieved 99% accuracy for segmentation and 97% for classification of DR grades, highly competitive compared to the latest findings in 2023.-->
 
 #### Research Master’s Degree in Embedded Systems (2021 - 2023)
-*The Higher Institute of Applied Sciences and Technology of Kasserine* <img src="images/university of kairouen.jpg?raw=true" style="width:30px; height:30px;" alt="university of kairouen"/>
+*The Higher Institute of Applied Sciences and Technology of Kasserine*
 
 <!-- - Explored various machine learning models, achieving a 99% accuracy rate in classifying industrial system faults. -->
 
@@ -53,7 +51,7 @@ As a Ph.D. student in Computer Science with proficiency in machine learning algo
 
 - **Description:**
 
-<img src="images/Idrid_project.PNG?raw=true" style="width:50%;"/>
+<img src="images/Idrid_project.PNG?raw=true" style="width:80%;"/>
 
 In this project, we tackled two significant challenges using the IDRiD dataset. Our first challenge involved segmenting lesions, which we approached as a binary classification problem for the classes MA, EX, SE, and HE. We performed exceptionally by implementing rigorous data augmentation and enhancing class histograms through CLAHE. Our metrics, including Average IoU, Dice Coefficient, Accuracy, Precision, F1 Score, and Sensitivity, reached an impressive 99%. Additionally, since we had superior annotations for the HE, EX, and SE classes, we adopted Deeplabv3+, which led to outstanding segmentation results. In our second challenge, we focus on classification, specifically grading images into five grades ranging from 0 to 4. We use the advanced Swin Transformer model to achieve superior results, carefully preprocess and enhance the data, and fine-tune the augmentation parameters. Our approach achieves a Training Accuracy of 95% and a Test Accuracy of 92%, which exceeds the latest research articles. Our innovation lies in utilizing the state-of-the-art Swin Transformer architecture, significantly contributing to our exceptional performance.To summarize, we thoroughly test our methods in real-life situations to ensure they are practical and effective. Our groundbreaking results in segmentation and classification are achieved through a combination of advanced models, careful data preprocessing, and innovative augmentation strategies. This work highlights the significance of new approaches and systematic experimentation, providing valuable insights and paving the way for future advancements in medical image analysis.
 **Keywords:** Diabetic Retinopathy, Swin Transformer, Deeplabv3+, Disease grading, Lesion segmentation
@@ -64,7 +62,7 @@ In this project, we tackled two significant challenges using the IDRiD dataset. 
 
 - **Description:**
 
-<img src="images/application_issat.PNG?raw=true" style="width:50%;"/>
+<img src="images/application_issat.PNG?raw=true" style="width:80%;"/>
 
 This study investigates grid-connected photovoltaic systems and fault diagnosis using the Random
 Forest Classifier. The project initially classified signals in the dataset to detect faults, demonstrating
@@ -84,14 +82,14 @@ GCPV
 
 ## Certifications
 
-- **Python Programming Bootcamp 2023 from Basics to Advanced**
-- **Supervised Machine Learning: Regression and Classification**
-- **AI for Medical Diagnosis**
-- **Entrepreneurship, social innovation, communication, management, and leadership**
-- **Certificate of Appreciation - Winning the first prize - FRANCE**
-- **Design Thinking, Business Model Development, Business Planning and Pitch Presentation**
-- **Introduction to Career skills in  Data analyst**
-- **Build Your business**
+- Python Programming Bootcamp 2023 from Basics to Advanced
+- Supervised Machine Learning: Regression and Classification
+- AI for Medical Diagnosis
+- Entrepreneurship, social innovation, communication, management, and leadership
+- Certificate of Appreciation - Winning the first prize - FRANCE
+- Design Thinking, Business Model Development, Business Planning and Pitch Presentation
+- Introduction to Career skills in Data analyst
+- Build Your business
 
 ---
 ## Awards & Volunteering
