@@ -1,5 +1,6 @@
 ## Bio
-As a Ph.D. student in Computer Science with proficiency in machine learning algorithms and programming languages like Python, I excel at developing predictive models to solve real-world problems.
+I am a seasoned freelancer offering comprehensive IT services tailored to your needs. Whether it's crafting insightful reports, designing user-friendly interfaces, or developing cutting-edge ML/DL models, I've got you covered. With expertise in Python, I specialize in data preprocessing, cleaning, and visualization to extract valuable insights from your datasets. Additionally, I excel in segmentation, classification, and detection tasks across various domains including agriculture and medical imaging. 
+**Simply provide the dataset, and together, we'll devise the optimal solution to meet your objectives.**
 
 ---
 
