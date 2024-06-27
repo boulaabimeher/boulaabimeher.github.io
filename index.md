@@ -29,7 +29,13 @@ As a Ph.D. student in Computer Science with proficiency in machine learning algo
 - Completed 150+ orders and achieved a 12% increase in World Domination.
 
 ---
+## Supervisor :
 
+- **Co-supervisor of a master's research project (M2) at [ENSIT](https://www.ensit.tn/):**
+*Title: Automated glaucoma detection using AI with justification of recommendations*
+<img src="images/esnit.jfif?raw=true" style="width:20%; height:20%;" alt="ENSIT"/>
+
+---
 ## Education
 #### Ph.D. in Computer Science (2024 - Present)
 [*Faculty of Sciences of Monastir, University of Monastir*](https://fsm.rnu.tn/) <br>
@@ -101,7 +107,7 @@ GCPV
 ---
 
 ## Certifications
-
+[**Show credential**](https://www.linkedin.com/in/boulaabi-meher/details/certifications/)
 - Python Programming Bootcamp 2023 from Basics to Advanced
 - Supervised Machine Learning: Regression and Classification
 - AI for Medical Diagnosis
@@ -115,14 +121,14 @@ GCPV
 ## Awards & Volunteering
 
 - #### Elite Freelancer Participant - Tunisia Program
-*uprodit.com*
+[*uprodit*](www.uprodit.com)
 
 Selected among 20 elite freelancers in Tunisia, I participated in a prestigious program offering intensive training in communication and leadership. Under the patronage of Madame la Cheffe du Gouvernement Najla Bouden and esteemed members of the government and business community, we presented our work and engaged with influential figures. This impactful program fostered invaluable connections with fellow freelancers and government officials, aiming to shape the future of freelancing in Tunisia and advocate for legislation to support young entrepreneurs.
 
 <img src="images/uprodit.jfif?raw=true" style="width:50%;" /> 
 
 - #### Club Project Manager
-*Young Leaders Entrepreneurs*
+ [*Young Leaders Entrepreneurs*](https://www.facebook.com/Youngleadersentrepreneurs/)
 
 As the Project Manager of "Peace Lab Kasserine," a club established in a disadvantaged region of Tunisia ( KASSERINE ), I spearheaded initiatives to empower youth and promote peace, art, and theater in an area once plagued by terrorism. Leading cross-functional teams, we implemented programs fostering communication, community involvement, and socio-economic development. Our projects included collecting gifts for cancer-stricken children, organizing internships in business, IT, and the arts, and engaging over 100 young individuals in various activities. With support from YLE, we received valuable resources and training, enabling us to deliver impactful projects that brought positive change to the region. Through meticulous planning, effective communication, and strategic decision-making, I ensured the successful execution of projects on time and within budget, contributing to the transformation and advancement of the community.
 
@@ -130,7 +136,7 @@ As the Project Manager of "Peace Lab Kasserine," a club established in a disadva
 
 
 - #### Active theatre artist and cultural animator
-*Ministry of Culture of Tunisia*
+[*Ministry of Culture of Tunisia*](https://www.culture.gov.tn/)
 
 I embarked on a transformative journey that shaped my passion for social and cultural engagement. As an active theatre artist and cultural animator, I took on significant responsibilities from the age of 16, organizing and leading numerous community projects, internships, and large-scale summer programs at both school and university levels. These experiences, spanning over 100 projects across Tunisia, including Mahdia, Kasserine, Sfax, and Sousse, allowed me to collaborate with the Ministry of Culture and Ministry of Education. Each project enriched my skills, fostering a deep commitment to societal change and cultural development. This period was pivotal in making me the proactive and socially conscious individual I am today. As the saying goes, "The future belongs to those who believe in the beauty of their dreams."
 
