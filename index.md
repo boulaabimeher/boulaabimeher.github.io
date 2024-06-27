@@ -3,10 +3,17 @@ As a Ph.D. student in Computer Science with proficiency in machine learning algo
 
 ---
 
+## Skills
+- **Programming Languages:** Python, Matlab, C
+- **Technical Skills:** Data Cleaning and Preprocessing, Data Visualization, Data modeling, Machine Learning, Reporting
+
+---
+
 ## Professional Experience
 
 #### AI Research Intern
-*Escola Tècnica Superior d'Enginyeria Industrial de Barcelona ETSEIB - UPC, Barcelona, Spain* *(October 2023 - January 2024)*
+[*Escola Tècnica Superior d'Enginyeria Industrial de Barcelona ETSEIB - UPC, Barcelona, Spain*](https://etseib.upc.edu/es) (*October 2023 - January 2024*)
+ 
 - Explored advanced Machine Learning models, focusing on precise detection and classification using tabular data as signals.
 
 #### Solutions Architect 
@@ -16,7 +23,7 @@ As a Ph.D. student in Computer Science with proficiency in machine learning algo
 - Managed social media platforms and created impactful IT event reports enhanced with creative designs using advanced tools.
 
 #### E-commerce Specialist 
-*Fiverr: Level 2 seller* *(2018 - 2020)*
+[*Fiverr: Level 2 seller*](www.fiverr.com) *(2018 - 2020)*
 
 - Created e-commerce websites, crafted Amazon product promotional videos, and designed premium templates.
 - Completed 150+ orders and achieved a 12% increase in World Domination.
@@ -25,34 +32,36 @@ As a Ph.D. student in Computer Science with proficiency in machine learning algo
 
 ## Education
 #### Ph.D. in Computer Science (2024 - Present)
-*Faculty of Sciences of Monastir, University of Monastir*
-- Grade: PhD student researcher at (LaTICE) <img src="images/Latice.PNG?raw=true" style="width:100px; height:30px;" alt="Latice"/>
+[*Faculty of Sciences of Monastir, University of Monastir*](https://fsm.rnu.tn/) <br>
+*Grade: PhD student researcher at ([LaTICE](http://www.latice.rnu.tn/))* <br>
+<img src="images/Latice.PNG?raw=true" style="width:50%; height:50%;" alt="Latice"/>
 - Research in Medical Image Analysis using Artificial Intelligence 
 
 #### Research Master’s Degree in Computer Science, Intelligent Systems (2022 - 2023)
-*The Higher National Engineering School of Tunis, ENSIT - M2*
-- Grade: Grade: Student researcher at (LaTICE) <img src="images/Latice.PNG?raw=true" style="width:100px; height:30px;" alt="Latice"/>
+[*The Higher National Engineering School of Tunis, ENSIT - M2*](https://www.ensit.tn/)<br>
+*Grade: Student researcher at ([LaTICE](http://www.latice.rnu.tn/))* <br>
+
+<img src="images/Latice.PNG?raw=true" style="width:50%; height:50%;" alt="Latice"/>
+
 - Final Project : achieved 99% accuracy for segmentation and 97% for classification of DR grades, highly competitive compared to the latest findings in 2023.
 
 #### Research Master’s Degree in Embedded Systems (2021 - 2023)
-*The Higher Institute of Applied Sciences and Technology of Kasserine*
-- Grade: Student researcher at (URMAN) Lab - University of Kairouan
+[*The Higher Institute of Applied Sciences and Technology of Kasserine*](https://issatkas.rnu.tn/)<br>
+*Grade: Student researcher at (URMAN) Lab - University of Kairouan*<br>
+
+<img src="images/university of kairouen.jpg?raw=true" style="width:20%; height:20%;" alt="logo_university_kairouen"/>
+
 - Final Project : explored various machine learning models, achieving a 99% accuracy rate in classifying industrial system faults.
 
-#### Higher Institute of Applied Sciences and Technology of Mahdia (2014-2017)
-*Applied license in computer science and electronics*
+#### Applied license in computer science and electronics  (2014-2017)
+[*Higher Institute of Applied Sciences and Technology of Mahdia*](URL) <br>
+<img src="images/logo-issat-mahdia.png?raw=true" style="width:20%; height:20%;" alt="logo_university_kairouen"/> <br>
 
 - I created "Strategia," a strategic website using WordPress and premium tools. Designed
 specifically for associations and organizations, this platform simplifies the strategic planning
 process. Entrepreneurs can now boost their creativity on digital platforms with just a few
 clicks
 
-
----
-
-## Skills
-- **Programming Languages:** Python, Matlab, C
-- **Technical Skills:** Data Cleaning and Preprocessing, Data Visualization, Data modeling, Machine Learning, Reporting
 
 ---
 
