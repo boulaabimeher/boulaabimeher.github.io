@@ -157,7 +157,7 @@ GCPV
 ## 📌 Awards & Volunteering
 
 - #### Elite Freelancer Participant - Tunisia Program (Feb 2023 - Apr 2023) 🏆
-[*uprodit *](https://www.facebook.com/uprodit/)
+[*uprodit*](https://www.facebook.com/uprodit/)
 
 Selected among 20 elite freelancers in Tunisia, I participated in a prestigious program offering intensive training in communication and leadership. Under the patronage of Madame la Cheffe du Gouvernement Najla Bouden and esteemed members of the government and business community, we presented our work and engaged with influential figures. This impactful program fostered invaluable connections with fellow freelancers and government officials, aiming to shape the future of freelancing in Tunisia and advocate for legislation to support young entrepreneurs.
 
