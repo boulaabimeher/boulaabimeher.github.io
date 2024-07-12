@@ -8,13 +8,14 @@ I am a seasoned freelancer 💻 offering comprehensive IT services tailored to y
 ## 📌 Skills
 
 - **Programming Languages:**
-Python, Matlab, C/C++, SQL
+Python, Matlab, SQL
 
 - **Technical Skills:**
-Data Cleaning and Preprocessing, Data Visualization, Data Modeling, Machine Learning, Deep Learning, Statistical Analysis, Natural Language Processing (NLP), Computer Vision, Cloud Computing (Azure), Model Deployment and Serving (Docker, Kubernetes), Reporting and Dashboarding (Tableau, Power BI), Reinforcement Learning, Time Series Analysis, Optimization Techniques
+Data Cleaning and Preprocessing, Data Visualization, Data Modeling, Machine Learning, Deep Learning, Statistical Analysis, Natural Language Processing (NLP), Computer Vision, Reinforcement Learning, Time Series Analysis, Optimization Techniques.
+*Now i am Working on* : Cloud Computing (Azure), Model Deployment and Serving (Docker, Kubernetes), Reporting and Dashboarding (Tableau, Power BI)
 
 - **Tools and Frameworks:**
-TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, NumPy, SciPy, Matplotlib, Seaborn, Jupyter Notebooks, Apache Hadoop, Apache Spark, SQL Databases (MySQL, PostgreSQL)
+TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, NumPy, SciPy, Matplotlib, Seaborn, Jupyter Notebooks, SQL Databases.
 
 - **Soft Skills:**
 Problem-Solving, Analytical Thinking, Research Skills, Communication Skills, Team Collaboration, Project Management, Critical Thinking, Adaptability and Continuous Learning
@@ -23,11 +24,20 @@ Problem-Solving, Analytical Thinking, Research Skills, Communication Skills, Tea
 
 ## 📌 Professional Experience
 
+#### AI Researcher
+*[LaTICE](http://www.latice.rnu.tn/) (Feb 2024 - Present)*
+
+- Passionate about advancing healthcare through artificial intelligence, specializing in developing intelligent systems for diagnosing diabetic retinopathy and glaucoma. Utilizing state-of-the-art AI models to achieve precise diagnostic results and personalized treatment recommendations based on medical imaging data.
+- Committed to innovating at the intersection of AI and healthcare to improve patient outcomes and revolutionize medical practices.
+
+*Skills:* Python (Programming Language) · Computer Vision · TensorFlow · Medical Imaging · Healthcare
+
+<img src="images/Latice.PNG?raw=true" style="width:60%; height:60%;" alt="Latice"/>
+
 #### AI Project Specialist and Report Designer
 *Freelance (Jan 2023 - Present)*
 
 - I specialize in AI projects focused on classification, detection, and segmentation, utilizing Python as my primary programming language. Additionally, I excel in crafting detailed reports and presentations tailored to each project, ensuring clarity and effectiveness in communicating outcomes to clients.
-
 
 #### AI Researcher 
 [*Escola Tècnica Superior d'Enginyeria Industrial de Barcelona ETSEIB - UPC, Barcelona, Spain*](https://etseib.upc.edu/es) (*October 2023 - January 2024*)
