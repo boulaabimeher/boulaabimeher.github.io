@@ -76,16 +76,16 @@ Problem-Solving, Analytical Thinking, Research Skills, Communication Skills, Tea
 - Level 2 seller ✅: Focus on creating e-commerce websites, crafting Amazon product promotional videos, and designing premium templates. Completed 150+ orders. Achieved a 12% increase in World Domination
 
 ---
+## 📌 Publications and Research Contributions :
+- On 26 October 2024, I will give my first presentation on my first article, which focuses on medical image analysis.
+- Two papers are in processing (coming soon). 
+
+---
 ## 📌 Supervisor :
 
 - **Co-supervisor of a master's research project (M2) at [ENSIT](https://www.ensit.tn/) (2024):** <br>
 *Title: Automated glaucoma detection using AI with justification of recommendations* <br>
 <img src="images/esnit.jfif?raw=true" style="width:30%; height:30%;" alt="ENSIT"/>
-
-## 📌 Publication :
-- On 26 October 2024, I will give my first presentation on my first article, which focuses on medical image analysis.
-- Two papers are in processing (coming soon). 
-
 
 ---
 ## 📌 Education
