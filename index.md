@@ -13,7 +13,7 @@ Python, Matlab, SQL
 - **Technical Skills:**
 Data Cleaning and Preprocessing, Data Visualization, Data Modeling, Machine Learning, Deep Learning, Statistical Analysis, Natural Language Processing (NLP), Computer Vision, Reinforcement Learning, Time Series Analysis, Optimization Techniques.
 
-**Now i am Working on** : Cloud Computing (Azure), Model Deployment and Serving (Docker, Kubernetes), Reporting and Dashboarding (Tableau, Power BI)
+** My Future research** : Cloud Computing (Azure), Model Deployment and Serving (Docker, Kubernetes), Reporting and Dashboarding (Tableau, Power BI).
 
 - **Tools and Frameworks:**
 TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, NumPy, SciPy, Matplotlib, Seaborn, Jupyter Notebooks, SQL Databases.
@@ -81,6 +81,11 @@ Problem-Solving, Analytical Thinking, Research Skills, Communication Skills, Tea
 - **Co-supervisor of a master's research project (M2) at [ENSIT](https://www.ensit.tn/) (2024):** <br>
 *Title: Automated glaucoma detection using AI with justification of recommendations* <br>
 <img src="images/esnit.jfif?raw=true" style="width:30%; height:30%;" alt="ENSIT"/>
+
+## 📌 Publication :
+- On 26 October 2024, I will give my first presentation on my first article, which focuses on medical image analysis.
+- Two papers are in processing (coming soon). 
+
 
 ---
 ## 📌 Education
