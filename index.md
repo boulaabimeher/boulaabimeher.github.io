@@ -28,9 +28,12 @@ Problem-Solving, Analytical Thinking, Research Skills, Communication Skills, Tea
 #### AI Researcher
 *[CRIL CNRS, Artois University](https://www.cril.univ-artois.fr/en/) (Sep 2024 - Present)*
 
+
 - Passionate about advancing healthcare through artificial intelligence, specializing in developing intelligent systems for diagnosing diabetic retinopathy and glaucoma.
 
 *Skills:* Python (Programming Language) · Computer Vision · TensorFlow · Medical Imaging · Healthcare
+
+<img src="images/CRIL CNRS.PNG?raw=true" style="width:60%; height:60%;" alt="Latice"/>
 
 #### AI Researcher
 *[LaTICE](http://www.latice.rnu.tn/) (Feb 2024 - Present)*
