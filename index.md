@@ -26,9 +26,16 @@ Problem-Solving, Analytical Thinking, Research Skills, Communication Skills, Tea
 ## 📌 Professional Experience
 
 #### AI Researcher
+*[CRIL CNRS, Artois University](https://www.cril.univ-artois.fr/en/) (Sep 2024 - Present)*
+
+- Passionate about advancing healthcare through artificial intelligence, specializing in developing intelligent systems for diagnosing diabetic retinopathy and glaucoma.
+
+*Skills:* Python (Programming Language) · Computer Vision · TensorFlow · Medical Imaging · Healthcare
+
+#### AI Researcher
 *[LaTICE](http://www.latice.rnu.tn/) (Feb 2024 - Present)*
 
-- Passionate about advancing healthcare through artificial intelligence, specializing in developing intelligent systems for diagnosing diabetic retinopathy and glaucoma. Utilizing state-of-the-art AI models to achieve precise diagnostic results and personalized treatment recommendations based on medical imaging data.
+- Utilizing state-of-the-art AI models to achieve precise diagnostic results and personalized treatment recommendations based on medical imaging data.
 - Committed to innovating at the intersection of AI and healthcare to improve patient outcomes and revolutionize medical practices.
 
 *Skills:* Python (Programming Language) · Computer Vision · TensorFlow · Medical Imaging · Healthcare
