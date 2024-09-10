@@ -13,7 +13,7 @@ Python, Matlab, SQL
 - **Technical Skills:**
 Data Cleaning and Preprocessing, Data Visualization, Data Modeling, Machine Learning, Deep Learning, Statistical Analysis, Natural Language Processing (NLP), Computer Vision, Reinforcement Learning, Time Series Analysis, Optimization Techniques.
 
-** My Future research** : Cloud Computing (Azure), Model Deployment and Serving (Docker, Kubernetes), Reporting and Dashboarding (Tableau, Power BI).
+- **My Future research** : Cloud Computing (Azure), Model Deployment and Serving (Docker, Kubernetes), Reporting and Dashboarding (Tableau, Power BI).
 
 - **Tools and Frameworks:**
 TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, NumPy, SciPy, Matplotlib, Seaborn, Jupyter Notebooks, SQL Databases.
