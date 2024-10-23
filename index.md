@@ -140,11 +140,16 @@ Problem-Solving, Analytical Thinking, Research Skills, Communication Skills, Tea
 
 <img src="images/Idrid_project.PNG?raw=true" style="width:90%;"/>
 
-In this project, we tackled two significant challenges using the IDRiD dataset. Our first challenge involved segmenting lesions, which we approached as a binary classification problem for the classes MA, EX, SE, and HE. We performed exceptionally by implementing rigorous data augmentation and enhancing class histograms through CLAHE. Our metrics, including Average IoU, Dice Coefficient, Accuracy, Precision, F1 Score, and Sensitivity, reached an impressive 99%. Additionally, since we had superior annotations for the HE, EX, and SE classes, we adopted Deeplabv3+, which led to outstanding segmentation results. In our second challenge, we focus on classification, specifically grading images into five grades ranging from 0 to 4. We use the advanced Swin Transformer model to achieve superior results, carefully preprocess and enhance the data, and fine-tune the augmentation parameters. Our approach achieves a Training Accuracy of 95% and a Test Accuracy of 92%, which exceeds the latest research articles. Our innovation lies in utilizing the state-of-the-art Swin Transformer architecture, significantly contributing to our exceptional performance.To summarize, we thoroughly test our methods in real-life situations to ensure they are practical and effective. Our groundbreaking results in segmentation and classification are achieved through a combination of advanced models, careful data preprocessing, and innovative augmentation strategies. This work highlights the significance of new approaches and systematic experimentation, providing valuable insights and paving the way for future advancements in medical image analysis.<br>
+In this project, we tackled two significant challenges using the IDRiD dataset. Our first challenge involved segmenting lesions, which we approached as a binary classification problem for the classes MA, EX, SE, and HE. We performed exceptionally by implementing rigorous data augmentation and enhancing class histograms. Our metrics, including Average IoU, Dice Coefficient, Accuracy, Precision, F1 Score, and Sensitivity, reached an impressive 99%. 
 
-**Keywords:** Diabetic Retinopathy, Swin Transformer, Deeplabv3+, Disease grading, Lesion segmentation
+<!--
+Additionally, since we had superior annotations for the HE, EX, and SE classes, we adopted Deeplabv3+, which led to outstanding segmentation results. In our second challenge, we focus on classification, specifically grading images into five grades ranging from 0 to 4. We use the advanced Swin Transformer model to achieve superior results, carefully preprocess and enhance the data, and fine-tune the augmentation parameters. Our approach achieves a Training Accuracy of 95% and a Test Accuracy of 92%, which exceeds the latest research articles. Our innovation lies in utilizing the state-of-the-art Swin Transformer architecture, significantly contributing to our exceptional performance.To summarize, we thoroughly test our methods in real-life situations to ensure they are practical and effective. Our groundbreaking results in segmentation and classification are achieved through a combination of advanced models, careful data preprocessing, and innovative augmentation strategies. -->
 
-- **Technologies Used:** Python, DeepLabV3+, SwinTransformer.
+This work highlights the significance of new approaches and systematic experimentation, providing valuable insights and paving the way for future advancements in medical image analysis.<br>
+
+**Keywords:** Diabetic Retinopathy, Transformer, Disease grading, Lesion segmentation
+
+- **Technologies Used:** Python, Transformer.
 
 #### 2. Dashboard for Systems Fault Prediction and Classification (May 2023- janv 2024)*
 
