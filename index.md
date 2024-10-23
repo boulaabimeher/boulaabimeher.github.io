@@ -35,7 +35,7 @@ Problem-Solving, Analytical Thinking, Research Skills, Communication Skills, Tea
 
 *Skills:* Python (Programming Language) · Computer Vision · TensorFlow · Medical Imaging · Healthcare
 
-<img src="images/CRIL CNRS.PNG?raw=true" style="width:60%; height:60%;" alt="Latice"/>
+<img src="images/CRIL CNRS.PNG?raw=true" style="width:80%; height:80%;" alt="Latice"/>
 
 #### AI Researcher | Medical Image Analysis | computer vision 
 *[LaTICE](http://www.latice.rnu.tn/) (Dec 2023 - Present)*
