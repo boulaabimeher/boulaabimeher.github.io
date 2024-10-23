@@ -25,21 +25,24 @@ Problem-Solving, Analytical Thinking, Research Skills, Communication Skills, Tea
 
 ## 📌 Professional Experience
 
-#### AI Researcher
-*[CRIL CNRS, Artois University](https://www.cril.univ-artois.fr/en/) (Sep 2024 - Present)*
+#### AI Researcher | Medical Image Analysis Using Transformers
+*[CRIL CNRS, Artois University](https://www.cril.univ-artois.fr/en/) (Sep 2024 - Dec 2024)*
 
-
-- Passionate about advancing healthcare through artificial intelligence, specializing in developing intelligent systems for diagnosing diabetic retinopathy and glaucoma.
+- Developed innovative solutions for classifying diabetic retinopathy using state-of-the-art Transformer models, achieving an impressive 97% accuracy in classification.
+- Implemented multiple preprocessing techniques to optimize data quality and model performance, utilizing the well-known Diabetic Retinopathy Challenge dataset.
+- Conducted comprehensive evaluations using all necessary metrics to ensure robust model performance and reliability.
+- Currently in the process of publishing our findings in a research paper, scheduled for submission in November 2024 ✅.
 
 *Skills:* Python (Programming Language) · Computer Vision · TensorFlow · Medical Imaging · Healthcare
 
 <img src="images/CRIL CNRS.PNG?raw=true" style="width:60%; height:60%;" alt="Latice"/>
 
-#### AI Researcher
-*[LaTICE](http://www.latice.rnu.tn/) (Feb 2024 - Present)*
+#### AI Researcher | Medical Image Analysis | computer vision 
+*[LaTICE](http://www.latice.rnu.tn/) (Dec 2023 - Present)*
 
-- Utilizing state-of-the-art AI models to achieve precise diagnostic results and personalized treatment recommendations based on medical imaging data.
-- Committed to innovating at the intersection of AI and healthcare to improve patient outcomes and revolutionize medical practices.
+- Successfully completed a research paper accepted ✅ for presentation on October 25, 2024, showcasing our innovative approaches in medical image analysis.
+- Achieved an outstanding 99% accuracy in the segmentation task for the Diabetic Retinopathy Challenge by applying novel techniques and optimizing parameters for optimal results.
+- Pioneering efforts to elevate our research by exploring additional challenges in medical image analysis, incorporating topics such as explainable AI, natural language processing (NLP), and large language models (LLMs).
 
 *Skills:* Python (Programming Language) · Computer Vision · TensorFlow · Medical Imaging · Healthcare
 
@@ -50,7 +53,8 @@ Problem-Solving, Analytical Thinking, Research Skills, Communication Skills, Tea
 
 - I specialize in AI projects focused on classification, detection, and segmentation, utilizing Python as my primary programming language. Additionally, I excel in crafting detailed reports and presentations tailored to each project, ensuring clarity and effectiveness in communicating outcomes to clients.
 
-#### AI Researcher 
+#### AI Researcher | Signal Processing and Machine Learning
+
 [*Escola Tècnica Superior d'Enginyeria Industrial de Barcelona ETSEIB - UPC, Barcelona, Spain*](https://etseib.upc.edu/es) (*October 2023 - January 2024*)
  
 - Developed an intuitive interface for Predicting and Classifying Industrial Systems Faults utilizing Streamlit library. Key accomplishments include:<br>
