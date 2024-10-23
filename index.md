@@ -99,7 +99,7 @@ Problem-Solving, Analytical Thinking, Research Skills, Communication Skills, Tea
 
 ---
 ## 📌 Education
-#### Ph.D. in Computer Science (feb 2024 - Present)
+#### Ph.D. in Computer Science (Dec 2023 - Present)
 [*Faculty of Sciences of Monastir, University of Monastir*](https://fsm.rnu.tn/) <br>
 *Grade: PhD student researcher at ([LaTICE](http://www.latice.rnu.tn/))* <br>
 <img src="images/Latice.PNG?raw=true" style="width:60%; height:60%;" alt="Latice"/>
