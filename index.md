@@ -1,14 +1,3 @@
-# Meher BOULAABI
-
-**PhD Researcher in AI & Medical Imaging**
-
----
-
-## Contact Information
-
-**Email:** [boulaabimeher.54@gmail.com](mailto:boulaabimeher.54@gmail.com)  
-**Phone:** +33 7 82 92 00 74  
-**Location:** Lens, 62300, France
 
 **Academic Profiles:**
 - [LinkedIn](https://www.linkedin.com/in/boulaabi-meher/)
@@ -21,25 +10,29 @@
 
 ---
 
-## About Me
+## 📌 About Me
 
-I am a PhD researcher specializing in Artificial Intelligence applications in healthcare, with a particular focus on medical image analysis and computer vision. My research aims to develop intelligent systems to aid in the diagnosis of ocular diseases, leveraging advanced machine learning and deep learning techniques to improve diagnostic accuracy and efficiency. I have published research in prestigious conferences including AIME 2025 and IEEE AICCSA 2024, and I am actively working on interpretable AI models for medical imaging.
+I am a PhD researcher in Computer Science specializing in Artificial Intelligence for healthcare, with a strong focus on medical image analysis and explainable AI. Currently working at CNRS CRIL (UMR 8188) on Concept Bottleneck Models (CBM) for interpretable medical imaging, my research bridges the gap between high-performance deep learning and clinical decision support systems. With publications in prestigious conferences (AIME 2025, IEEE AICCSA 2024) and extensive teaching experience in machine learning and computer vision, I combine technical expertise with a passion for education and knowledge transfer.
+
+**Research Focus:** I develop interpretable AI systems for ocular disease diagnosis, leveraging Transformer architectures, Large Language Models, and Concept Bottleneck Models to create transparent, trustworthy AI solutions that clinicians can understand and adopt. My work spans the entire machine learning pipeline—from data preprocessing and model optimization to deployment and explainability—with proven results: 99% segmentation accuracy, 97% classification accuracy, and 20% improvement in model generalization through innovative preprocessing techniques.
+
+**Career Objective:** I am actively seeking an ATER (Attaché Temporaire d'Enseignement et de Recherche) position to continue advancing interpretable AI research in healthcare while contributing to academic education. I am eager to teach courses in machine learning, deep learning, computer vision, and AI for healthcare, sharing my expertise with the next generation of researchers and engineers. An ATER role would allow me to deepen my research on CBM interpretability while developing pedagogical skills in higher education.
 
 ---
 
-## Research Interests
+##  📌 Research Interests
 
 - **Artificial Intelligence in Healthcare**
-- **Medical Image Analysis**
 - **Computer Vision**
+- **Concept Bottleneck Models**
+- **Medical Image Analysis**
+- **Large Language Models (LLMs)**
 - **Deep Learning & Transformer Models**
 - **Explainable AI (XAI) & Model Interpretability**
-- **Large Language Models (LLMs)**
-- **Concept Bottleneck Models**
 
 ---
 
-## Education
+## 📌 Education
 
 ### [Faculty of Sciences of Monastir, University of Monastir](https://fsm.rnu.tn/)
 **PhD in Computer Science - AI in Healthcare**  
@@ -53,7 +46,7 @@ Research focus: Developing intelligent systems for ocular disease diagnosis usin
 *September 2022 - October 2023*  
 Tunis, Tunisia
 
-Final Project: Achieved 99% accuracy in diabetic retinopathy lesion segmentation and 97% accuracy in disease classification using the IDRiD dataset. Implemented advanced Transformer and CNN architectures demonstrating state-of-the-art performance in medical imaging.
+Final Project: Achieved 90% accuracy in diabetic retinopathy lesion segmentation and 91% accuracy in disease classification using the IDRiD dataset. Implemented advanced Transformer and CNN architectures demonstrating state-of-the-art performance in medical imaging.
 
 ### [Higher Institute of Applied Sciences and Technology of Kasserine](https://issatkas.rnu.tn/)
 **Master's Degree in Embedded Systems (M1+M2)**  
@@ -71,7 +64,7 @@ Final Project: Developed "Strategia," a platform for entrepreneurs to create bus
 
 ---
 
-## Research Experience
+## 📌 Research Experience
 
 ### AI Researcher - Interpretable Medical Imaging (Concept Bottleneck Models)
 **[CNRS CRIL UMR 8188](https://www.cril.univ-artois.fr/en/), Artois University, France**  
@@ -98,7 +91,7 @@ Final Project: Developed "Strategia," a platform for entrepreneurs to create bus
 - Applied advanced preprocessing techniques: cropping + CLAHE on LAB (L-channel) to enhance contrast and lesion boundaries
 
 ### AI Researcher - Signal Processing & Machine Learning
-**[ETSEIB, UPC Barcelona](https://etseib.upc.edu/es), Spain**  
+**[ETSEIB, UPC Barcelona](https://www.upc.edu/en), Spain**  
 *October 2023 - January 2024*
 
 - Built Streamlit interface for fault prediction system, reducing analysis time and improving accessibility
@@ -106,7 +99,7 @@ Final Project: Developed "Strategia," a platform for entrepreneurs to create bus
 
 ---
 
-## Publications
+## 📌 Publications
 
 ### [Enhancing DR Classification with Swin Transformer and Shifted Window Attention](https://link.springer.com/chapter/10.1007/978-3-031-95841-0_11)
 **AIME 2025** - Artificial Intelligence in Medicine Europe Conference  
@@ -122,9 +115,9 @@ Comprehensive study on lesion segmentation in diabetic retinopathy using DeepLab
 
 ---
 
-## Supervision & Mentoring
+## 📌 Supervision & Mentoring
 
-### Master's Thesis Supervisor
+### Master's Thesis Supervisor (M2)
 **[University of Tunis, ENSIT](https://www.ensit.tn/)**  
 *March 2026 - Present*
 
@@ -141,7 +134,7 @@ Comprehensive study on lesion segmentation in diabetic retinopathy using DeepLab
 
 ---
 
-## Professional Experience
+## 📌 Professional Experience
 
 ### IT Manager & Digital Marketing Lead
 **[Polygrillage](https://polygrillage.com/)**  
@@ -165,7 +158,7 @@ Comprehensive study on lesion segmentation in diabetic retinopathy using DeepLab
 - Achieved industry-leading cost efficiency with €0.02 per message through continuous campaign optimization and A/B testing
 
 ### Solutions Architect & Designer
-**[Freelance](https://boulaabimeher.github.io/)**  
+**Freelance**  
 *2020 - 2023*
 
 - Collaborated with 10+ organizations providing tailored solutions in reporting, design, and development
@@ -181,7 +174,7 @@ Comprehensive study on lesion segmentation in diabetic retinopathy using DeepLab
 
 ---
 
-## Teaching Experience
+## 📌 Teaching Experience
 
 ### Advanced Python for Machine Learning
 **Association Jeune Actif**  
@@ -209,29 +202,31 @@ Trained Grillux company staff on Meta platform analytics, competitor data extrac
 
 ---
 
-## Technical Skills
+## 📌 Technical Skills
 
-**Programming Languages:**  
+**Programming Languages**  
 Python, MATLAB, SQL
 
-**Machine Learning & AI:**  
-Deep Learning, Computer Vision, Large Language Models (LLM), Transformer Models, Model Interpretability, Explainable AI (XAI)
+**Machine Learning & AI**  
+Deep Learning, Computer Vision, Concept Bottleneck Models (CBM), Large Language Models (LLM), Transformer Models, Model Interpretability, Explainable AI (XAI)
 
-**Frameworks & Libraries:**  
-TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, NumPy, OpenCV, Streamlit
+**Frameworks & Libraries**  
+TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, NumPy, OpenCV, Streamlit, Hugging Face Transformers
 
-**Visualization Tools:**  
+**Visualization Tools**  
 Matplotlib, Seaborn, Jupyter Notebooks
 
-**Research Skills:**  
-Data Preprocessing, Model Optimization, Hyperparameter Tuning, Medical Image Analysis, Research Design
+**Research Skills**  
+Data Preprocessing, Model Optimization, Hyperparameter Tuning, Medical Image Analysis, Research Design, Ablation Studies
 
-**Soft Skills:**  
-Research Communication, Team Collaboration, Project Management, Critical Thinking, Adaptability
+**Soft Skills**  
+Research Communication, Academic Teaching, Team Collaboration, Project Management, Critical Thinking, Adaptability, Mentoring & Supervision
 
 ---
 
-## Certifications
+---
+
+## 📌 Certifications
 
 [View all credentials on LinkedIn](https://fr.linkedin.com/in/boulaabi-meher/fr)
 
@@ -265,7 +260,7 @@ Research Communication, Team Collaboration, Project Management, Critical Thinkin
 
 ---
 
-## Languages
+## 📌 Languages
 
 - **Arabic:** Native proficiency
 - **English:** Full professional proficiency
@@ -273,7 +268,7 @@ Research Communication, Team Collaboration, Project Management, Critical Thinkin
 
 ---
 
-## Awards & Volunteering
+## 📌 Awards & Volunteering
 
 ### Elite Freelancer Participant - Tunisia Program
 **[Uprodit](https://www.facebook.com/uprodit/)**  
