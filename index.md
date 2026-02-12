@@ -171,7 +171,7 @@ Comprehensive study on lesion segmentation in diabetic retinopathy using DeepLab
 *January 2022 - August 2025*
 
 - Managed 70+ advertising campaigns across Facebook, Instagram, and WhatsApp for diverse sectors including electronics, agriculture, and cosmetics
-- Generated 1,000+ product orders through strategic targeting and retargeting techniques with optimized conversion funnels
+- Generated 300 product orders through strategic targeting and retargeting techniques with optimized conversion funnels
 - Developed comprehensive growth strategies resulting in 30,000+ total followers across client pages and 10M+ impressions
 - Conducted competitive analysis and market research to identify opportunities and develop data-driven strategies
 - Achieved industry-leading cost efficiency with €0.02 per message through continuous campaign optimization and A/B testing
