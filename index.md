@@ -1,222 +1,298 @@
-## 📌 Bio
-I am a seasoned freelancer 💻 offering comprehensive IT services tailored to your needs. Whether it's crafting insightful reports, designing user-friendly interfaces, or developing cutting-edge ML/DL models, I've got you covered. With expertise in Python, I specialize in data preprocessing, cleaning, and visualization to extract valuable insights from your datasets. Additionally, I excel in segmentation, classification, and detection tasks across various domains including agriculture and medical imaging. <br>
+# Meher BOULAABI
 
-*🔔 Simply provide the dataset, and together, we'll devise the optimal solution to meet your objectives.👌*
-
----
-
-## 📌 Skills
-
-- **Programming Languages:**
-Python, Matlab, SQL
-
-- **Technical Skills:**
-Data Cleaning and Preprocessing, Data Visualization, Data Modeling, Machine Learning, Deep Learning, Statistical Analysis, Computer Vision,  Optimization Techniques.
-
-- **My Future research** : LLM, NLP, Cloud Computing (Azure), Model Deployment and Serving (Docker, Kubernetes), Reporting and Dashboarding (Tableau, Power BI).
-
-- **Tools and Frameworks:**
-TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, NumPy, SciPy, Matplotlib, Seaborn, Jupyter Notebooks, SQL Databases.
-
-- **Soft Skills:**
-Problem-Solving, Analytical Thinking, Research Skills, Communication Skills, Team Collaboration, Project Management, Critical Thinking, Adaptability and Continuous Learning
+**PhD Researcher in AI & Medical Imaging**
 
 ---
 
-## 📌 Professional Experience
+## Contact Information
 
-#### AI Researcher | Medical Image Analysis Using Transformers
-*[CRIL CNRS, Artois University](https://www.cril.univ-artois.fr/en/) (Sep 2024 - Dec 2024)*
+**Email:** [boulaabimeher.54@gmail.com](mailto:boulaabimeher.54@gmail.com)  
+**Phone:** +33 7 82 92 00 74  
+**Location:** Lens, 62300, France
 
-- Developed innovative solutions for classifying diabetic retinopathy using state-of-the-art Transformer models, achieving an impressive 97% accuracy in classification.
-- Implemented multiple preprocessing techniques to optimize data quality and model performance, utilizing the well-known Diabetic Retinopathy Challenge dataset.
-- Conducted comprehensive evaluations using all necessary metrics to ensure robust model performance and reliability.
-- Currently in the process of publishing our findings in a research paper, scheduled for submission in November 2024 ✅.
-
-*Skills:* Python (Programming Language) · Computer Vision · TensorFlow · Medical Imaging · Healthcare
-
-<img src="images/CRIL CNRS.PNG?raw=true" style="width:80%; height:80%;" alt="Latice"/>
-
-#### AI Researcher | Medical Image Analysis | computer vision 
-*[LaTICE](http://www.latice.rnu.tn/) (Dec 2023 - Present)*
-
-- Successfully completed a research paper accepted ✅ for presentation on October 25, 2024, showcasing our innovative approaches in medical image analysis.
-- Achieved an outstanding 99% accuracy in the segmentation task for the Diabetic Retinopathy Challenge by applying novel techniques and optimizing parameters for optimal results.
-- Pioneering efforts to elevate our research by exploring additional challenges in medical image analysis, incorporating topics such as explainable AI, natural language processing (NLP), and large language models (LLMs).
-
-*Skills:* Python (Programming Language) · Computer Vision · TensorFlow · Medical Imaging · Healthcare
-
-<img src="images/Latice.PNG?raw=true" style="width:60%; height:60%;" alt="Latice"/>
-
-#### AI Project Specialist and Report Designer
-*Freelance (Jan 2023 - Present)*
-
-- I specialize in AI projects focused on classification, detection, and segmentation, utilizing Python as my primary programming language. Additionally, I excel in crafting detailed reports and presentations tailored to each project, ensuring clarity and effectiveness in communicating outcomes to clients.
-
-#### AI Researcher | Signal Processing and Machine Learning
-
-[*Escola Tècnica Superior d'Enginyeria Industrial de Barcelona ETSEIB - UPC, Barcelona, Spain*](https://etseib.upc.edu/es) (*October 2023 - January 2024*)
- 
-- Developed an intuitive interface for Predicting and Classifying Industrial Systems Faults utilizing Streamlit library. Key accomplishments include:<br>
-
-  ✔️ Implemented and evaluated multiple machine learning algorithms to identify the most effective model. <br>
-  ✔️ Utilized Grid search and random search techniques for parameter fine-tuning, enhancing model performance.<br>
-  ✔️ Applied feature selection methods to streamline the dataset and enhance model efficiency.<br>
-  ✔️ Employed correlation reduction algorithms to manage complexities in high-similarity signal data. <br>
-  ✔️Utilized the corr() method, employing Spearman, Kendall, and distance-based correlation techniques. This approach streamlined data analysis, enhancing model accuracy in predicting industrial system faults.<br>
-  ✔️ Conducted rigorous preprocessing, cleaning, and optimization procedures, culminating in the selection and preservation of the optimal model.<br>
-  ✔️ Leveraged the saved model to create an intelligent, real-time interface for signal visualization, streamlining fault detection.<br>
-  ✔️ Optimized code using the IDE - ATOM for local development, while leveraging Jupyter Notebook and Google Colab for efficient model training, supported by a premium subscription.
-
-#### Solutions Architect & designer
-*Freelance, Remote*  *(2020 - 2022)*
-
-- Collaborated with organizations such as Uprodit, YLE, JCI, Tunivision, EFE Tunisie, Tunisia Telecom, Enda, YLG, BYB, and Hub Accelerate MENA.
-
-  ✔️ Leveraged expertise in reporting, design, and development to deliver comprehensive solutions tailored to client needs.<br>
-  ✔️ Provided consultancy services in various domains, including technology, entrepreneurship, and community development.<br>
-  ✔️ Designed and developed innovative solutions to address complex challenges faced by clients<br>
-
-#### Responsable point of sale
-*MLIHA · Full-time (Dec 2021 - Sep 2022)* <br>
-
-- Not IT-focused, but invaluable experience in the commercial sector :
-  
-  ✔️ Led commercial project with MLIHA Tunis, a major company, while pursuing Master's studies. As Point of Sale Manager, successfully balanced education and work, honing skills in planning, organizing, and leading projects.
-
-#### E-commerce Specialist 
-[*Fiverr: Level 2 seller*](https://www.fiverr.com/) *(2018 - 2020)*
-
-- Level 2 seller ✅: Focus on creating e-commerce websites, crafting Amazon product promotional videos, and designing premium templates. Completed 150+ orders. Achieved a 12% increase in World Domination
-
----
-## 📌 Publications and Research Contributions :
-- On 26 October 2024, I will give my first presentation on my first article, which focuses on medical image analysis.
-- Two papers are in processing (coming soon). 
-
----
-## 📌 Supervisor :
-
-- **Co-supervisor of a master's research project (M2) at [ENSIT](https://www.ensit.tn/) (2024):** <br>
-*Title: Automated glaucoma detection using AI with justification of recommendations* <br>
-<img src="images/esnit.jfif?raw=true" style="width:30%; height:30%;" alt="ENSIT"/>
-
----
-## 📌 Education
-#### Ph.D. in Computer Science (Dec 2023 - Present)
-[*Faculty of Sciences of Monastir, University of Monastir*](https://fsm.rnu.tn/) <br>
-*Grade: PhD student researcher at ([LaTICE](http://www.latice.rnu.tn/))* <br>
-<img src="images/Latice.PNG?raw=true" style="width:60%; height:60%;" alt="Latice"/>
-
-- Research in Medical Image Analysis using Artificial Intelligence
-- I am currently pursuing a PhD, focusing on developing an intelligent system to aid in the diagnosis of ocular diseases using artificial intelligence for medical imaging. My research aims to leverage advanced ML/DL techniques to improve diagnostic accuracy and efficiency in medical imaging. I am also seeking a cotutelle partnership with a lab to further advance our work in computer vision and medical imaging.
-
-#### Research Master’s Degree in Computer Science, Intelligent Systems (2022 - 2023)
-[*The Higher National Engineering School of Tunis, ENSIT - M2*](https://www.ensit.tn/)<br>
-*Grade: Student researcher at ([LaTICE](http://www.latice.rnu.tn/))* <br>
-
-<img src="images/Latice.PNG?raw=true" style="width:60%; height:60%;" alt="Latice"/>
-
-- Final Project : we achieved outstanding results in the field of diabetic retinopathy analysis. we attained a 99% accuracy rate for segmentation and a 97% accuracy rate for classifying diabetic retinopathy grades using iDrid Dataset. These results are highly competitive, surpassing many of the latest findings as of 2023. we presented this work utilizing advanced transformer and CNN architectures, with Python as the programming language, showcasing my proficiency in cutting-edge ML/DL techniques and their application in medical imaging.
-
-#### Research Master’s Degree in Embedded Systems (2021 - 2023)
-[*The Higher Institute of Applied Sciences and Technology of Kasserine*](https://issatkas.rnu.tn/)<br>
-*Grade: Student researcher at (URMAN) Lab - University of Kairouan*<br>
-
-<img src="images/university of kairouen.jpg?raw=true" style="width:30%; height:30%;" alt="logo_university_kairouen"/>
-
-- Final Project : My work led to remarkable results, achieving a 99% accuracy rate in predicting industrial system faults, showcasing my hard work in signal detection and fault class prediction. I extensively explored advanced machine learning models such as Random Forest, Decision Tree, SVM, Naive Bayes, KNN, and Logistic Regression. My focus was on optimizing these algorithms using techniques like random search and grid search. I employed feature selection, including methods like KPCA to reduce correlation.
-
-#### Applied license in computer science and electronics  (2014-2017)
-[*Higher Institute of Applied Sciences and Technology of Mahdia*](https://issatmh.rnu.tn/) <br>
-<img src="images/logo-issat-mahdia.png?raw=true" style="width:30%; height:30%;" alt="logo_university_kairouen"/> <br>
-
-- I explored both software and hardware fields through various projects. My final project, earning a 19/20 in my soutenance—the highest distinction in my institute—involved developing "Strategia," a platform to help entrepreneurs create business plans. Collaborating with teams in Canada and France, we utilized WordPress, Divi, Toolset, and other premium tools.
-
+**Academic Profiles:**
+- [LinkedIn](https://www.linkedin.com/in/boulaabi-meher/)
+- [ORCID](https://orcid.org/0009-0000-6773-2781)
+- [ResearchGate](https://www.researchgate.net/profile/Boulaabi-Meher)
+- [Google Scholar](https://scholar.google.com/citations?user=9trlmwkAAAAJ&hl=en&oi=ao)
+- [DBLP](https://dblp.org/pid/401/1365.html)
+- [GitHub](https://github.com/boulaabimeher)
+- [Personal Website](https://boulaabimeher.github.io/)
 
 ---
 
-## 📌 Projects
+## About Me
 
-#### 1. A Deep Learning System for Diabetic Retinopathy, Lesion Segmentation and Disease Grading (feb 2023 - oct 2023)
-
-- **Description:**
-
-<img src="images/Idrid_project.PNG?raw=true" style="width:90%;"/>
-
-In this project, we tackled two significant challenges using the IDRiD dataset. Our first challenge involved segmenting lesions, which we approached as a binary classification problem for the classes MA, EX, SE, and HE. We performed exceptionally by implementing rigorous data augmentation and enhancing class histograms. Our metrics, including Average IoU, Dice Coefficient, Accuracy, Precision, F1 Score, and Sensitivity, reached an impressive 99%. 
-
-<!--
-Additionally, since we had superior annotations for the HE, EX, and SE classes, we adopted Deeplabv3+, which led to outstanding segmentation results. In our second challenge, we focus on classification, specifically grading images into five grades ranging from 0 to 4. We use the advanced Swin Transformer model to achieve superior results, carefully preprocess and enhance the data, and fine-tune the augmentation parameters. Our approach achieves a Training Accuracy of 95% and a Test Accuracy of 92%, which exceeds the latest research articles. Our innovation lies in utilizing the state-of-the-art Swin Transformer architecture, significantly contributing to our exceptional performance.To summarize, we thoroughly test our methods in real-life situations to ensure they are practical and effective. Our groundbreaking results in segmentation and classification are achieved through a combination of advanced models, careful data preprocessing, and innovative augmentation strategies. -->
-
-This work highlights the significance of new approaches and systematic experimentation, providing valuable insights and paving the way for future advancements in medical image analysis.<br>
-
-**Keywords:** Diabetic Retinopathy, Transformer, Disease grading, Lesion segmentation
-
-- **Technologies Used:** Python, Transformer.
-
-#### 2. Dashboard for Systems Fault Prediction and Classification (May 2023- janv 2024)*
-
-- **Description:**
-
-<img src="images/application_issat.PNG?raw=true" style="width:90%;"/>
-
-This study investigates grid-connected photovoltaic systems and fault diagnosis using the Random
-Forest Classifier. The project initially classified signals in the dataset to detect faults, demonstrating
-the classifier’s effectiveness. To enhance efficiency, a novel approach focused solely on the transitory
-regime for each fault class, resulting in a remarkable computation time of 0.008 seconds and 100%
-accuracy. This targeted analysis improves real-time fault detection, emphasizing the importance of
-optimized tools like the Random Forest Classifier. The findings contribute to advancing fault diagno-
-sis techniques, enhancing the safety and efficiency of the photovoltaic industry by preventing potential
-damage and interruptions.<br>
-
-**Keywords:** Photovoltaic systems, Fault diagnosis, Random Forest Classifier, Transitory regime,
-GCPV
-
-- **Technologies Used:** Matlab, Python, Streamlit
+I am a PhD researcher specializing in Artificial Intelligence applications in healthcare, with a particular focus on medical image analysis and computer vision. My research aims to develop intelligent systems to aid in the diagnosis of ocular diseases, leveraging advanced machine learning and deep learning techniques to improve diagnostic accuracy and efficiency. I have published research in prestigious conferences including AIME 2025 and IEEE AICCSA 2024, and I am actively working on interpretable AI models for medical imaging.
 
 ---
 
-## 📌 Certifications
-[*Show credential*](https://www.linkedin.com/in/boulaabi-meher/details/certifications/)
-- Python Programming Bootcamp 2023 from Basics to Advanced
-- Supervised Machine Learning: Regression and Classification
-- AI for Medical Diagnosis
-- Entrepreneurship, social innovation, communication, management, and leadership
-- Certificate of Appreciation - Winning the first prize - FRANCE
-- Design Thinking, Business Model Development, Business Planning and Pitch Presentation
-- Introduction to Career skills in Data analyst
-- Build Your business
+## Research Interests
 
----
-## 📌 Awards & Volunteering
-
-- #### Elite Freelancer Participant - Tunisia Program (Feb 2023 - Apr 2023) 🏆
-[*uprodit*](https://www.facebook.com/uprodit/)
-
-Selected among 20 elite freelancers in Tunisia, I participated in a prestigious program offering intensive training in communication and leadership. Under the patronage of Madame la Cheffe du Gouvernement Najla Bouden and esteemed members of the government and business community, we presented our work and engaged with influential figures. This impactful program fostered invaluable connections with fellow freelancers and government officials, aiming to shape the future of freelancing in Tunisia and advocate for legislation to support young entrepreneurs.
-
-<img src="images/uprodit.jfif?raw=true" style="width:50%;" /> 
-
-- #### Club Project Manager (Jan 2017 - Jan 2018) 🏆
- [*Young Leaders Entrepreneurs*](https://www.facebook.com/Youngleadersentrepreneurs/)
-
-As the Project Manager of "Peace Lab Kasserine," a club established in a disadvantaged region of Tunisia ( KASSERINE ), I spearheaded initiatives to empower youth and promote peace, art, and theater in an area once plagued by terrorism. Leading cross-functional teams, we implemented programs fostering communication, community involvement, and socio-economic development. Our projects included collecting gifts for cancer-stricken children, organizing internships in business, IT, and the arts, and engaging over 100 young individuals in various activities. With support from YLE, we received valuable resources and training, enabling us to deliver impactful projects that brought positive change to the region. Through meticulous planning, effective communication, and strategic decision-making, I ensured the successful execution of projects on time and within budget, contributing to the transformation and advancement of the community.
-
-[![Openning of our project](https://img.youtube.com/vi/s6ae2wY-7Ms/0.jpg)](https://www.youtube.com/watch?v=s6ae2wY-7Ms)
-
-
-- #### Active theatre artist and cultural animator (Jan 2010 - Jan 2015) 🏆
-[*Ministry of Culture of Tunisia*](https://www.culture.gov.tn/)
-
-I embarked on a transformative journey that shaped my passion for social and cultural engagement. As an active theatre artist and cultural animator, I took on significant responsibilities from the age of 16, organizing and leading numerous community projects, internships, and large-scale summer programs at both school and university levels. These experiences, spanning over 100 projects across Tunisia, including Mahdia, Kasserine, Sfax, and Sousse, allowed me to collaborate with the Ministry of Culture and Ministry of Education. Each project enriched my skills, fostering a deep commitment to societal change and cultural development. This period was pivotal in making me the proactive and socially conscious individual I am today. As the saying goes, "The future belongs to those who believe in the beauty of their dreams."
-
-<img src="images/tunisia_logo.png?raw=true" style="width:50%;" alt="Tunisia Logo"/>
-
+- **Artificial Intelligence in Healthcare**
+- **Medical Image Analysis**
+- **Computer Vision**
+- **Deep Learning & Transformer Models**
+- **Explainable AI (XAI) & Model Interpretability**
+- **Large Language Models (LLMs)**
+- **Concept Bottleneck Models**
 
 ---
 
-## 📌Languages
-- **Arabic:** Native
+## Education
+
+### [Faculty of Sciences of Monastir, University of Monastir](https://fsm.rnu.tn/)
+**PhD in Computer Science - AI in Healthcare**  
+*September 2023 - December 2026*  
+Monastir, Tunisia
+
+Research focus: Developing intelligent systems for ocular disease diagnosis using artificial intelligence and medical imaging techniques.
+
+### [Higher National Engineering School of Tunis (ENSIT)](https://www.ensit.tn/)
+**Master's Degree in Computer Science (M2)**  
+*September 2022 - October 2023*  
+Tunis, Tunisia
+
+Final Project: Achieved 99% accuracy in diabetic retinopathy lesion segmentation and 97% accuracy in disease classification using the IDRiD dataset. Implemented advanced Transformer and CNN architectures demonstrating state-of-the-art performance in medical imaging.
+
+### [Higher Institute of Applied Sciences and Technology of Kasserine](https://issatkas.rnu.tn/)
+**Master's Degree in Embedded Systems (M1+M2)**  
+*September 2021 - March 2024*  
+Kasserine, Tunisia
+
+Final Project: Achieved 99% accuracy in predicting industrial system faults through signal detection and fault classification. Extensive exploration of machine learning models including Random Forest, Decision Tree, SVM, and optimization techniques.
+
+### [Higher Institute of Applied Sciences and Technology of Mahdia](https://issatmh.rnu.tn/)
+**Applied License in Computer Science and Electronics**  
+*September 2014 - May 2017*  
+Mahdia, Tunisia
+
+Final Project: Developed "Strategia," a platform for entrepreneurs to create business plans, receiving the highest distinction (19/20) in the institute. Collaborated with international teams in Canada and France.
+
+---
+
+## Research Experience
+
+### AI Researcher - Interpretable Medical Imaging (Concept Bottleneck Models)
+**[CNRS CRIL UMR 8188](https://www.cril.univ-artois.fr/en/), Artois University, France**  
+*September 2025 - Present*
+
+- Implementing Concept Bottleneck Model (CBM) focused on model interpretability for medical imaging applications
+- Mastered LLM implementation with Hugging Face Transformers (Phi2, LLAMA, BERT variants, distillation)
+- Debugged 5+ Python projects on CRIL computing cluster for large-scale medical imaging analysis
+
+### AI Researcher - Transformers & Medical Imaging
+**[CNRS CRIL UMR 8188](https://www.cril.univ-artois.fr/en/), Artois University, France**  
+*September 2024 - March 2025*
+
+- Published research paper "Enhancing DR Classification with Swin Transformer and Shifted Window Attention" accepted at AIME 2025
+- Developed robust preprocessing pipeline (CLAHE, cropping, data augmentation) improving model generalization by 20%
+- Achieved 89.65% accuracy on APTOS dataset and 97.40% accuracy on IDRiD dataset using Swin Transformer architecture
+
+### AI Researcher - Computer Vision (DeepLabv3+)
+**[LaTICE Laboratory](http://www.latice.rnu.tn/), ENSIT, Tunisia**  
+*December 2023 - Present*
+
+- Published research paper "Advanced Segmentation of Diabetic Retinopathy Lesions Using DeepLabv3+" accepted at AICCSA 2024
+- Trained and evaluated DeepLabv3+ on IDRiD dataset, achieving 99% segmentation accuracy
+- Applied advanced preprocessing techniques: cropping + CLAHE on LAB (L-channel) to enhance contrast and lesion boundaries
+
+### AI Researcher - Signal Processing & Machine Learning
+**[ETSEIB, UPC Barcelona](https://etseib.upc.edu/es), Spain**  
+*October 2023 - January 2024*
+
+- Built Streamlit interface for fault prediction system, reducing analysis time and improving accessibility
+- Conducted ablation study using TensorFlow-based ML algorithms (KNN, Decision Tree, SVM, Random Forest) achieving 99% F1 score with 20% accuracy improvement
+
+---
+
+## Publications
+
+### [Enhancing DR Classification with Swin Transformer and Shifted Window Attention](https://link.springer.com/chapter/10.1007/978-3-031-95841-0_11)
+**AIME 2025** - Artificial Intelligence in Medicine Europe Conference  
+*Published 2025*
+
+Novel approach to diabetic retinopathy classification using Swin Transformer architecture with shifted window attention mechanism. Achieved state-of-the-art results on multiple benchmark datasets.
+
+### [Advanced Segmentation of Diabetic Retinopathy Lesions Using DeepLabv3+](https://ieeexplore.ieee.org/document/10912539)
+**AICCSA 2024** - IEEE/ACS International Conference on Computer Systems and Applications  
+*Published 2024*
+
+Comprehensive study on lesion segmentation in diabetic retinopathy using DeepLabv3+ architecture. Demonstrated exceptional performance with 99% accuracy on IDRiD dataset.
+
+---
+
+## Supervision & Mentoring
+
+### Master's Thesis Supervisor
+**[University of Tunis, ENSIT](https://www.ensit.tn/)**  
+*March 2026 - Present*
+
+**Current Supervision Projects:**
+
+1. **Automated Skin Cancer Detection using AI**  
+   Supervising M2 student in developing deep learning models for dermatological image analysis
+
+2. **Classification and Segmentation of Diabetic Retinopathy Images: Comparative Analysis and Explainability**  
+   Supervising M2 student in advanced medical image processing with XAI techniques
+
+3. **Deploying an English-Arabic Translator Using Large Language Models**  
+   Co-supervising research team on dataset creation and model deployment, in collaboration with Union of Arab Scientific Research Councils (Upcoming)
+
+---
+
+## Professional Experience
+
+### IT Manager & Digital Marketing Lead
+**[Polygrillage](https://polygrillage.com/)**  
+*February 2025 - August 2026*
+
+- Developed and deployed full-stack e-commerce website using WordPress CMS with premium templates on Hostinger infrastructure
+- Implemented comprehensive security extensions, SEO optimization, and designed product catalogue
+- Created complete brand identity including promotional materials using Adobe Photoshop, Illustrator, and Canva Pro
+- Produced marketing video content using Adobe Premiere Pro and Filmora for social media campaigns
+- Managed Meta Ads campaigns, growing company's social media presence from 0 to 9k+ followers in 3 months ([Grillux](https://www.facebook.com/share/1DQi3BJQPo/))
+- Generated significant agricultural product sales through strategic digital marketing
+
+### Senior Media Buyer - Meta Platforms
+**Freelance**  
+*January 2022 - August 2025*
+
+- Managed 70+ advertising campaigns across Facebook, Instagram, and WhatsApp for diverse sectors including electronics, agriculture, and cosmetics
+- Generated 1,000+ product orders through strategic targeting and retargeting techniques with optimized conversion funnels
+- Developed comprehensive growth strategies resulting in 30,000+ total followers across client pages and 10M+ impressions
+- Conducted competitive analysis and market research to identify opportunities and develop data-driven strategies
+- Achieved industry-leading cost efficiency with €0.02 per message through continuous campaign optimization and A/B testing
+
+### Solutions Architect & Designer
+**[Freelance](https://boulaabimeher.github.io/)**  
+*2020 - 2023*
+
+- Collaborated with 10+ organizations providing tailored solutions in reporting, design, and development
+- Achieved 95% client satisfaction through customized technical solutions
+- Improved project delivery timelines by 20% through implementation of feedback mechanisms
+
+### Digital Marketing & E-commerce Specialist
+**Fiverr**  
+*January 2018 - January 2020*
+
+- Achieved Level 2 seller status with 150+ completed orders in e-commerce design and Amazon product videos
+- Increased customer engagement by 12% through strategic video marketing and site design
+
+---
+
+## Teaching Experience
+
+### Advanced Python for Machine Learning
+**Association Jeune Actif**  
+*March 2024*
+
+- Taught 3 groups (24 total hours) on ML project development from scratch using VS Code and Google Colab
+- Covered Python frameworks including Pandas, Scikit-learn, Seaborn, and OpenCV for data analysis and ML applications
+
+### Introduction to Computer Vision
+**Association Jeune Actif**  
+*February 2024*
+
+- Instructed 3 groups (36 total hours) on image classification techniques including binary and multi-class classification
+- Provided hands-on training in deep learning architectures for computer vision tasks
+
+### Corporate Technical Training
+**Polygrillage & Grillux**  
+*May 2025*
+
+**WordPress E-commerce Management (6 hours)**  
+Trained Polygrillage staff on custom website administration including product management, order processing, and user management
+
+**Meta Advertising & Competitive Analysis (5 hours)**  
+Trained Grillux company staff on Meta platform analytics, competitor data extraction, and strategic ad campaign development
+
+---
+
+## Technical Skills
+
+**Programming Languages:**  
+Python, MATLAB, SQL
+
+**Machine Learning & AI:**  
+Deep Learning, Computer Vision, Large Language Models (LLM), Transformer Models, Model Interpretability, Explainable AI (XAI)
+
+**Frameworks & Libraries:**  
+TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, NumPy, OpenCV, Streamlit
+
+**Visualization Tools:**  
+Matplotlib, Seaborn, Jupyter Notebooks
+
+**Research Skills:**  
+Data Preprocessing, Model Optimization, Hyperparameter Tuning, Medical Image Analysis, Research Design
+
+**Soft Skills:**  
+Research Communication, Team Collaboration, Project Management, Critical Thinking, Adaptability
+
+---
+
+## Certifications
+
+[View all credentials on LinkedIn](https://fr.linkedin.com/in/boulaabi-meher/fr)
+
+### AI & Machine Learning
+- Building Transformer-Based NLP Applications (NVIDIA, In Progress)
+- Fine Tuning LLM with Hugging Face Transformers (Udemy, In Progress)
+- Introduction to Large Language Models (LinkedIn Learning, 2025)
+- Convolutional Neural Networks in TensorFlow (DeepLearning.AI, 2024)
+- AI for Medical Diagnosis (DeepLearning.AI, 2023)
+- Supervised Machine Learning: Regression and Classification (DeepLearning.AI, 2023)
+
+### Programming & Data Analysis
+- Python Programming Bootcamp from Basics to Advanced (Udemy, 2023)
+- Introduction to Career Skills in Data Analytics (LinkedIn Learning, 2023)
+- Power BI for Beginners (Simplilearn, 2023)
+- Introduction to Web Development (Udemy, 2021)
+- HTML5 In Depth With Real World Examples (Udemy, 2021)
+- HTML & CSS Certification Course for Beginners (Udemy, 2021)
+
+### Business & Entrepreneurship
+- Entrepreneurship, Social Innovation, Communication, Management, and Leadership (U.S. Embassy Tunis, 2017)
+- Design Thinking, Business Model Development & Pitch Presentation (GIZ GmbH, 2017)
+- Build Your Business (EFE-ACADEMY TUNISIE, 2017)
+
+### Creative & Multimedia
+- After Effects CC for Beginners (Udemy, 2018)
+
+### Conference Participation
+- ACS/IEEE AICCSA 2024
+- AIME 2025
+
+---
+
+## Languages
+
+- **Arabic:** Native proficiency
 - **English:** Full professional proficiency
 - **French:** Full professional proficiency
+
+---
+
+## Awards & Volunteering
+
+### Elite Freelancer Participant - Tunisia Program
+**[Uprodit](https://www.facebook.com/uprodit/)**  
+*February 2023 - April 2023*
+
+Selected among 20 elite freelancers in Tunisia for intensive training in communication and leadership. Presented work under the patronage of Madame la Cheffe du Gouvernement Najla Bouden and engaged with influential government and business figures. This program fostered invaluable connections and aimed to shape the future of freelancing in Tunisia.
+
+### Club Project Manager
+**[Young Leaders Entrepreneurs](https://www.facebook.com/Youngleadersentrepreneurs/)**  
+*January 2017 - January 2018*
+
+Project Manager of "Peace Lab Kasserine," established in a disadvantaged region of Tunisia. Led initiatives to empower youth and promote peace, art, and theater. Implemented programs fostering communication, community involvement, and socio-economic development. Engaged over 100 young individuals in various activities including collecting gifts for cancer-stricken children and organizing internships.
+
+### Active Theatre Artist and Cultural Animator
+**[Ministry of Culture of Tunisia](https://www.culture.gov.tn/)**  
+*January 2010 - January 2015*
+
+Led and organized over 100 community projects, internships, and large-scale summer programs across Tunisia. Collaborated with the Ministry of Culture and Ministry of Education on cultural development initiatives. These experiences fostered a deep commitment to societal change and cultural development.
+
+---
+
+*Last updated: February 2026*
