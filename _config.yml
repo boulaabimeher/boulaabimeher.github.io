@@ -1,10 +1,31 @@
 title: MEHER BOULAABI
 logo: "images/me_croped.jpg?raw=true"
 description: >
-  <br> PhD Researcher in AI & Medical Imaging <br>
-  <br> Location: Lens, France <br>
-  <br> Phone: +33 782 92 00 74 <br>
-  <br> Email: boulaabimeher.54@gmail.com <br>
+  <br><b>PhD Researcher in AI & Medical Imaging</b><br>
+  <br>📍 Location: Lens, France<br>
+  <br>📞 Phone: +33 7 82 92 00 74<br>
+  <br>📧 Email: boulaabimeher.54@gmail.com<br>
+  <br>
+  <hr>
+  <br><b>📌 Technical Skills</b><br>
+  <br><b>Programming Languages</b><br>
+  Python, MATLAB, SQL<br>
+  <br><b>Machine Learning & AI</b><br>
+  Deep Learning, Computer Vision, CBM, LLM, Transformers, XAI<br>
+  <br><b>Frameworks & Libraries</b><br>
+  TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, NumPy, OpenCV, Streamlit, Hugging Face<br>
+  <br><b>Visualization Tools</b><br>
+  Matplotlib, Seaborn, Jupyter Notebooks<br>
+  <br><b>Research Skills</b><br>
+  Data Preprocessing, Model Optimization, Hyperparameter Tuning, Medical Image Analysis, Research Design, Ablation Studies<br>
+  <br><b>Soft Skills</b><br>
+  Research Communication, Academic Teaching, Team Collaboration, Project Management, Critical Thinking, Adaptability, Mentoring & Supervision<br>
+  <br>
+  <hr>
+  <br><b>🌐 Languages</b><br>
+  <br>Arabic: Native<br>
+  English: Full Professional<br>
+  French: Full Professional<br>
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
