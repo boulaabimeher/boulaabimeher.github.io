@@ -5,11 +5,37 @@
 
 ## 📌 About Me
 
-I am a PhD researcher in Computer Science specializing in Artificial Intelligence for healthcare, with a strong focus on medical image analysis and explainable AI. Currently working at CNRS CRIL (UMR 8188) on Concept Bottleneck Models (CBM) for interpretable medical imaging, my research bridges the gap between high-performance deep learning and clinical decision support systems. With publications in prestigious conferences (AIME 2025, IEEE AICCSA 2024) and extensive teaching experience in machine learning and computer vision, I combine technical expertise with a passion for education and knowledge transfer.
+I am a PhD researcher in Computer Science specializing in Artificial Intelligence for healthcare, with a strong focus on medical image analysis and explainable AI. I am currently an invited PhD researcher at **CRIL (UMR 8188)**, working on Concept Bottleneck Models (CBMs) for interpretable medical imaging. My research aims to bridge the gap between high-performance deep learning models and clinically meaningful decision support systems. I have published my work in recognized international conferences, including AIME 2025 and IEEE AICCSA 2024.
 
-**Research Focus:** I develop interpretable AI systems for ocular disease diagnosis, leveraging Transformer architectures, Large Language Models, and Concept Bottleneck Models to create transparent, trustworthy AI solutions that clinicians can understand and adopt. My work spans the entire machine learning pipeline—from data preprocessing and model optimization to deployment and explainability—with proven results: 99% segmentation accuracy, 97% classification accuracy, and 20% improvement in model generalization through innovative preprocessing techniques.
+**Research Focus**
+My current research focuses on interpretable medical imaging using Concept Bottleneck Models, with particular interest in concept-based representations and clinically grounded explanations.
 
-**Career Objective:** I am actively seeking an ATER (Attaché Temporaire d'Enseignement et de Recherche) position to continue advancing interpretable AI research in healthcare while contributing to academic education. I am eager to teach courses in machine learning, deep learning, computer vision, and AI for healthcare, sharing my expertise with the next generation of researchers and engineers. An ATER role would allow me to deepen my research on CBM interpretability while developing pedagogical skills in higher education.
+**Career Objective**
+I am actively seeking an ATER (Attaché Temporaire d’Enseignement et de Recherche) position to further develop my research in interpretability and explainable AI, while contributing to academic teaching. I am highly motivated to teach courses in machine learning, deep learning, computer vision, and AI for healthcare, and to share my research experience with the next generation of students.
+An ATER position would allow me to strengthen my academic pedagogy and build a solid academic career in France, within a research and teaching environment in which I am highly motivated to contribute.
+
+
+---
+
+## 📌 Technical Skills
+
+**Programming Languages**  
+Python, MATLAB, SQL
+
+**Machine Learning & AI**  
+Deep Learning, Computer Vision, Concept Bottleneck Models (CBM), Large Language Models (LLM), Transformer Models, Model Interpretability, Explainable AI (XAI)
+
+**Frameworks & Libraries**  
+TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, NumPy, OpenCV, Streamlit, Hugging Face Transformers
+
+**Visualization Tools**  
+Matplotlib, Seaborn, Jupyter Notebooks
+
+**Research Skills**  
+Data Preprocessing, Model Optimization, Hyperparameter Tuning, Medical Image Analysis, Research Design, Ablation Studies
+
+**Soft Skills**  
+Research Communication, Academic Teaching, Team Collaboration, Project Management, Critical Thinking, Adaptability, Mentoring & Supervision
 
 ---
 
@@ -192,30 +218,6 @@ Trained Polygrillage staff on custom website administration including product ma
 
 **Meta Advertising & Competitive Analysis (5 hours)**  
 Trained Grillux company staff on Meta platform analytics, competitor data extraction, and strategic ad campaign development
-
----
-
-## 📌 Technical Skills
-
-**Programming Languages**  
-Python, MATLAB, SQL
-
-**Machine Learning & AI**  
-Deep Learning, Computer Vision, Concept Bottleneck Models (CBM), Large Language Models (LLM), Transformer Models, Model Interpretability, Explainable AI (XAI)
-
-**Frameworks & Libraries**  
-TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, NumPy, OpenCV, Streamlit, Hugging Face Transformers
-
-**Visualization Tools**  
-Matplotlib, Seaborn, Jupyter Notebooks
-
-**Research Skills**  
-Data Preprocessing, Model Optimization, Hyperparameter Tuning, Medical Image Analysis, Research Design, Ablation Studies
-
-**Soft Skills**  
-Research Communication, Academic Teaching, Team Collaboration, Project Management, Critical Thinking, Adaptability, Mentoring & Supervision
-
----
 
 ---
 
