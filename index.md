@@ -1,9 +1,9 @@
-## Academic Profiles
+## 📚 Academic Profiles
 [LinkedIn](https://www.linkedin.com/in/boulaabi-meher/) | [ORCID](https://orcid.org/0009-0000-6773-2781) | [ResearchGate](https://www.researchgate.net/profile/Boulaabi-Meher) | [Google Scholar](https://scholar.google.com/citations?user=9trlmwkAAAAJ&hl=en&oi=ao) | [DBLP](https://dblp.org/pid/401/1365.html) | [GitHub](https://github.com/boulaabimeher) | [Website](https://boulaabimeher.github.io/)
 
 ---
 
-## 📌 About Me
+## 👤 About Me
 
 I am a PhD researcher in Computer Science specializing in Artificial Intelligence for healthcare, with a strong focus on medical image analysis and explainable AI. I am currently an invited PhD researcher at **CRIL (UMR 8188)**, working on Concept Bottleneck Models (CBMs) for interpretable medical imaging. My research aims to bridge the gap between high-performance deep learning models and clinically meaningful decision support systems. I have published my work in recognized international conferences, including AIME 2025 and IEEE AICCSA 2024.
 
@@ -11,13 +11,12 @@ I am a PhD researcher in Computer Science specializing in Artificial Intelligenc
 My current research focuses on interpretable medical imaging using Concept Bottleneck Models, with particular interest in concept-based representations and clinically grounded explanations.
 
 **Career Objective**
-I am actively seeking an ATER (Attaché Temporaire d’Enseignement et de Recherche) position to further develop my research in interpretability and explainable AI, while contributing to academic teaching. I am highly motivated to teach courses in machine learning, deep learning, computer vision, and AI for healthcare, and to share my research experience with the next generation of students.
+I am actively seeking an ATER (Attaché Temporaire d'Enseignement et de Recherche) position to further develop my research in interpretability and explainable AI, while contributing to academic teaching. I am highly motivated to teach courses in machine learning, deep learning, computer vision, and AI for healthcare, and to share my research experience with the next generation of students.
 An ATER position would allow me to strengthen my academic pedagogy and build a solid academic career in France, within a research and teaching environment in which I am highly motivated to contribute.
-
 
 ---
 
-## 📌 Technical Skills
+## 💻 Technical Skills
 
 **Programming Languages**  
 Python, MATLAB, SQL
@@ -39,7 +38,7 @@ Research Communication, Academic Teaching, Team Collaboration, Project Managemen
 
 ---
 
-##  📌 Research Interests
+## 🔬 Research Interests
 
 - **Artificial Intelligence in Healthcare**
 - **Computer Vision**
@@ -51,7 +50,7 @@ Research Communication, Academic Teaching, Team Collaboration, Project Managemen
 
 ---
 
-## 📌 Education
+## 🎓 Education
 
 ### [Faculty of Sciences of Monastir, University of Monastir](https://fsm.rnu.tn/)
 **PhD in Computer Science - AI in Healthcare**  
@@ -83,7 +82,7 @@ Final Project: Developed "Strategia," a platform for entrepreneurs to create bus
 
 ---
 
-## 📌 Research Experience
+## 🔍 Research Experience
 
 ### AI Researcher - Interpretable Medical Imaging (Concept Bottleneck Models)
 **[CNRS CRIL UMR 8188](https://www.cril.univ-artois.fr/en/), Artois University, France**  
@@ -118,7 +117,7 @@ Final Project: Developed "Strategia," a platform for entrepreneurs to create bus
 
 ---
 
-## 📌 Publications
+## 📄 Publications
 
 ### [Enhancing DR Classification with Swin Transformer and Shifted Window Attention](https://link.springer.com/chapter/10.1007/978-3-031-95841-0_11)
 **AIME 2025** - Artificial Intelligence in Medicine Europe Conference  
@@ -134,7 +133,7 @@ Comprehensive study on lesion segmentation in diabetic retinopathy using DeepLab
 
 ---
 
-## 📌 Supervision & Mentoring
+## 👥 Supervision & Mentoring
 
 ### Master's Thesis Supervisor (M2)
 **[University of Tunis, ENSIT](https://www.ensit.tn/)**  
@@ -153,7 +152,7 @@ Comprehensive study on lesion segmentation in diabetic retinopathy using DeepLab
 
 ---
 
-## 📌 Professional Experience
+## 💼 Professional Experience
 
 ### IT Manager & Digital Marketing Lead
 **[Polygrillage](https://polygrillage.com/)**  
@@ -193,21 +192,27 @@ Comprehensive study on lesion segmentation in diabetic retinopathy using DeepLab
 
 ---
 
-## 📌 Teaching Experience
+## 🎯 Teaching Experience
 
-### Advanced Python for Machine Learning
-**Association Jeune Actif**  
-*March 2024*
+### Technical Training & Workshops
+**[Association Jeune Actif](https://jamaity.org/association/association-jeunes-actifs-kasserine/)**  
+*March 2024 - July 2024*
 
-- Taught 3 groups (24 total hours) on ML project development from scratch using VS Code and Google Colab
-- Covered Python frameworks including Pandas, Scikit-learn, Seaborn, and OpenCV for data analysis and ML applications
+Delivered comprehensive technical training programs across multiple domains to 7 groups:
 
-### Introduction to Computer Vision
-**Association Jeune Actif**  
-*February 2024*
+| Track | Subject | Hours (TOT) | Groups | Description |
+|-------|---------|-------------|--------|-------------|
+| **AI & ML** | Advanced Python for ML | 20h | 2 | End-to-end ML project development using VS Code, Google Colab; frameworks: Pandas, Scikit-learn, Seaborn, OpenCV |
+| **AI & ML** | Computer Vision & Classification | 20h | 1 | Image classification (binary & multi-class), deep learning architectures, practical CV applications |
+| **AI & ML** | CNN & Deep Learning | 15h | 1 | Convolutional Neural Networks, model architectures, transfer learning, optimization techniques |
+| **AI & ML** | AI in Healthcare | 9h | 3 | Medical imaging, disease diagnosis |
+| **Programming** | Linux System Administration | 15h | 3 | Installation, command line, shell scripting, system configuration |
+| **Programming** | Advanced Python Programming | 30h | 1 | Best practices for ML development |
+| **Programming** | Data Analysis & Visualization | 21h | 3 | Exploratory data analysis, Matplotlib, Seaborn, Jupyter workflows |
+| **Professional** | Digital Marketing & Meta Ads | 9h | 3 | Campaign strategy, audience targeting, A/B testing, analytics, read metrics |
+| **Professional** | Graphic Design & Communication | 9h | 3 | Adobe Suite (Photoshop, Illustrator), Canva Pro, visual branding, promotional materials |
 
-- Instructed 3 groups (36 total hours) on image classification techniques including binary and multi-class classification
-- Provided hands-on training in deep learning architectures for computer vision tasks
+**Total Impact:** 148+ training hours delivered across 9 subjects
 
 ### Corporate Technical Training
 **Polygrillage & Grillux**  
@@ -221,7 +226,7 @@ Trained Grillux company staff on Meta platform analytics, competitor data extrac
 
 ---
 
-## 📌 Certifications
+## 📜 Certifications
 
 [View all credentials on LinkedIn](https://fr.linkedin.com/in/boulaabi-meher/fr)
 
@@ -255,7 +260,7 @@ Trained Grillux company staff on Meta platform analytics, competitor data extrac
 
 ---
 
-## 📌 Languages
+## 🌐 Languages
 
 - **Arabic:** Native proficiency
 - **English:** Full professional proficiency
@@ -263,7 +268,7 @@ Trained Grillux company staff on Meta platform analytics, competitor data extrac
 
 ---
 
-## 📌 Awards & Volunteering
+## 🏆 Awards & Volunteering
 
 ### Elite Freelancer Participant - Tunisia Program
 **[Uprodit](https://www.facebook.com/uprodit/)**  
