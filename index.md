@@ -102,7 +102,7 @@ Final Project: Developed "Strategia," a platform for entrepreneurs to create bus
 
 ### AI Researcher - Computer Vision (DeepLabv3+)
 **[LaTICE Laboratory](http://www.latice.rnu.tn/), ENSIT, Tunisia**  
-*December 2023 - Present*
+*January 2023 - Present*
 
 - Published research paper "Advanced Segmentation of Diabetic Retinopathy Lesions Using DeepLabv3+" accepted at AICCSA 2024
 - Trained and evaluated DeepLabv3+ on IDRiD dataset, achieving 99% segmentation accuracy
