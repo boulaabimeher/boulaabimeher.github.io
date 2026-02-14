@@ -1,10 +1,8 @@
-<div align="center">
-  
 # Meher BOULAABI
 
 *"Making AI transparent and trustworthy for healthcare"*
 
-</div>
+&nbsp;
 
 <br>
 
