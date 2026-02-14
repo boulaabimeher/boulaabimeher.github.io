@@ -1,7 +1,17 @@
+<div align="center">
+  
 # Meher BOULAABI
 
+*"Making AI transparent and trustworthy for healthcare"*
+
+</div>
+
+<br>
+
 ## 📚 Academic Profiles
+
 [LinkedIn](https://www.linkedin.com/in/boulaabi-meher/) | [ORCID](https://orcid.org/0009-0000-6773-2781) | [ResearchGate](https://www.researchgate.net/profile/Boulaabi-Meher) | [Google Scholar](https://scholar.google.com/citations?user=9trlmwkAAAAJ&hl=en&oi=ao) | [DBLP](https://dblp.org/pid/401/1365.html) | [GitHub](https://github.com/boulaabimeher) | [Website](https://boulaabimeher.github.io/)
+
 
 ---
 
