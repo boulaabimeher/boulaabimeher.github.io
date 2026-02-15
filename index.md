@@ -156,7 +156,7 @@ Comprehensive study on lesion segmentation in diabetic retinopathy using DeepLab
 
 ### IT Manager & Digital Marketing Lead
 **[Polygrillage](https://polygrillage.com/)**  
-*February 2025 - August 2026*
+*February 2025 - August 2025*
 
 - Developed and deployed full-stack e-commerce website using WordPress CMS with premium templates on Hostinger infrastructure
 - Implemented comprehensive security extensions, SEO optimization, and designed product catalogue
