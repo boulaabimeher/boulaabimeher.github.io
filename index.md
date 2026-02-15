@@ -166,7 +166,7 @@ Comprehensive study on lesion segmentation in diabetic retinopathy using DeepLab
 
 ### Digital Marketing & E-commerce Specialist
 **Fiverr**  
-*January 2018 - JSeptember 2021*
+*January 2018 - September 2021*
 
 - Achieved Level 2 seller status with 150+ completed orders in e-commerce design and Amazon product videos
 - Increased customer engagement by 12% through strategic video marketing and site design
