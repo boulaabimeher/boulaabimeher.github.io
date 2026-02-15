@@ -88,9 +88,7 @@ Final Project: Developed "Strategia," a platform for entrepreneurs to create bus
 **[CNRS CRIL UMR 8188](https://www.cril.univ-artois.fr/en/), Artois University, France**  
 *September 2025 - Present*
 
-- Implementing Concept Bottleneck Model (CBM) focused on model interpretability for medical imaging applications
-- Mastered LLM implementation with Hugging Face Transformers (Phi2, LLAMA, BERT variants, distillation)
-- Debugged 5+ Python projects on CRIL computing cluster for large-scale medical imaging analysis
+- Developing explainable artificial intelligence models for medical imaging, with a particular emphasis on interpretable systems for ocular disease diagnosis.
 
 ### AI Researcher - Transformers & Medical Imaging
 **[CNRS CRIL UMR 8188](https://www.cril.univ-artois.fr/en/), Artois University, France**  
@@ -154,7 +152,7 @@ Comprehensive study on lesion segmentation in diabetic retinopathy using DeepLab
 
 ## 💼 Professional Experience
 
-### IT Manager & Digital Marketing Lead
+### Digital Marketing Manager
 **[Polygrillage](https://polygrillage.com/)**  
 *February 2025 - August 2025*
 
@@ -165,30 +163,18 @@ Comprehensive study on lesion segmentation in diabetic retinopathy using DeepLab
 - Managed Meta Ads campaigns, growing company's social media presence from 0 to 9k+ followers in 3 months ([Grillux](https://www.facebook.com/share/1DQi3BJQPo/))
 - Generated significant agricultural product sales through strategic digital marketing
 
-### Senior Media Buyer - Meta Platforms
-**Freelance**  
-*January 2022 - August 2025*
 
+### Digital Marketing & E-commerce Specialist
+**Fiverr**  
+*January 2018 - JSeptember 2021*
+
+- Achieved Level 2 seller status with 150+ completed orders in e-commerce design and Amazon product videos
+- Increased customer engagement by 12% through strategic video marketing and site design
 - Managed 70+ advertising campaigns across Facebook, Instagram, and WhatsApp for diverse sectors including electronics, agriculture, and cosmetics
 - Generated 300 product orders through strategic targeting and retargeting techniques with optimized conversion funnels
 - Developed comprehensive growth strategies resulting in 30,000+ total followers across client pages and 10M+ impressions
 - Conducted competitive analysis and market research to identify opportunities and develop data-driven strategies
 - Achieved industry-leading cost efficiency with €0.02 per message through continuous campaign optimization and A/B testing
-
-### Solutions Architect & Designer
-**Freelance**  
-*2020 - 2023*
-
-- Collaborated with 10+ organizations providing tailored solutions in reporting, design, and development
-- Achieved 95% client satisfaction through customized technical solutions
-- Improved project delivery timelines by 20% through implementation of feedback mechanisms
-
-### Digital Marketing & E-commerce Specialist
-**Fiverr**  
-*January 2018 - January 2020*
-
-- Achieved Level 2 seller status with 150+ completed orders in e-commerce design and Amazon product videos
-- Increased customer engagement by 12% through strategic video marketing and site design
 
 ---
 
@@ -213,16 +199,6 @@ Delivered comprehensive technical training programs across multiple domains to 7
 | **Professional** | Graphic Design & Communication | 9h | 3 | Adobe Suite (Photoshop, Illustrator), Canva Pro, visual branding, promotional materials |
 
 **Total Impact:** 148+ training hours delivered across 9 subjects
-
-### Corporate Technical Training
-**Polygrillage & Grillux**  
-*May 2025*
-
-**WordPress E-commerce Management (6 hours)**  
-Trained Polygrillage staff on custom website administration including product management, order processing, and user management
-
-**Meta Advertising & Competitive Analysis (5 hours)**  
-Trained Grillux company staff on Meta platform analytics, competitor data extraction, and strategic ad campaign development
 
 ---
 
