@@ -7,4 +7,4 @@ Feel free to explore my sections on Education, Experience, Languages, and Projec
 Thank you for visiting!
 
 
-![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/boulaabi-meher/)
+![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white)
