@@ -6,7 +6,7 @@
 
 ## 📚 Academic Profiles
 
-[LinkedIn](https://www.linkedin.com/in/boulaabi-meher/) | [ORCID: 0009-0000-6773-2781](https://orcid.org/0009-0000-6773-2781) | [ResearchGate](https://www.researchgate.net/profile/Boulaabi-Meher) | [Google Scholar](https://scholar.google.com/citations?user=9trlmwkAAAAJ) | [GitHub](https://github.com/boulaabimeher) | [Website](https://boulaabimeher.github.io/)
+[LinkedIn](https://www.linkedin.com/in/boulaabi-meher/) | [ORCID](https://orcid.org/0009-0000-6773-2781) | [ResearchGate](https://www.researchgate.net/profile/Boulaabi-Meher) | [Google Scholar](https://scholar.google.com/citations?user=9trlmwkAAAAJ) | [GitHub](https://github.com/boulaabimeher) | [Website](https://boulaabimeher.github.io/)
 
 ---
 
