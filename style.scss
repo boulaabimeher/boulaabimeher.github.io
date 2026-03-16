@@ -18,6 +18,20 @@ a[href*="tarball"] {
   overflow: hidden !important;
 }
 
+/* HIDE FOOTER TEXT */
+footer p {
+  display: none !important;
+}
+
+/* Add custom footer */
+footer::after {
+  content: '© 2026 Meher BOULAABI | Hosted on GitHub Pages';
+  display: block;
+  text-align: center;
+  font-size: 12px;
+  color: #999;
+}
+
 /* Adjust banner spacing */
 #banner {
   min-height: 0 !important;
