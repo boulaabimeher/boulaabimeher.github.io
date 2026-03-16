@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div align="center">
-  <img src="images/me_croped.jpg" alt="Meher BOULAABI" width="200" style="border-radius: 50%; border: 4px solid #FFCC00; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  <img src="images/me_croped.jpeg" alt="Meher BOULAABI" width="200" style="border-radius: 50%; border: 4px solid #FFCC00; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
 </div>
 
 <div align="center" style="margin: 20px 0;">
