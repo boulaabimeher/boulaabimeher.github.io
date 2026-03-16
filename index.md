@@ -21,6 +21,16 @@ layout: default
 
 ---
 
+<div align="center" style="margin: 30px 0;">
+  <a href="education.html" style="display: inline-block; background-color: #FFCC00; color: #2e2e2e; padding: 12px 24px; margin: 5px; text-decoration: none; border-radius: 5px; font-weight: bold;">📚 Education & Research</a>
+  <a href="publications.html" style="display: inline-block; background-color: #FFCC00; color: #2e2e2e; padding: 12px 24px; margin: 5px; text-decoration: none; border-radius: 5px; font-weight: bold;">📄 Publications</a>
+  <a href="teaching.html" style="display: inline-block; background-color: #FFCC00; color: #2e2e2e; padding: 12px 24px; margin: 5px; text-decoration: none; border-radius: 5px; font-weight: bold;">🎯 Teaching</a>
+  <a href="skills.html" style="display: inline-block; background-color: #FFCC00; color: #2e2e2e; padding: 12px 24px; margin: 5px; text-decoration: none; border-radius: 5px; font-weight: bold;">💻 Skills</a>
+  <a href="professional.html" style="display: inline-block; background-color: #FFCC00; color: #2e2e2e; padding: 12px 24px; margin: 5px; text-decoration: none; border-radius: 5px; font-weight: bold;">💼 Professional</a>
+</div>
+
+---
+
 ## 👤 Research Profile
 
 Doctoral researcher specializing in **interpretable deep learning for medical imaging**, with focus on vision transformers and explainable AI. Published first-author papers at **AIME 2025** and **IEEE AICCSA 2024**. 
@@ -36,16 +46,6 @@ My current research focuses on developing **Concept Bottleneck Models (CBMs)** f
 ### Career Objective
 
 I am actively seeking an **ATER (Attaché Temporaire d'Enseignement et de Recherche)** position to further develop my research in interpretability and explainable AI while contributing to academic teaching. I am highly motivated to teach courses in machine learning, deep learning, computer vision, and AI for healthcare, sharing my research experience with the next generation of students.
-
----
-
-<div align="center" style="margin: 30px 0;">
-  <a href="education.html" style="display: inline-block; background-color: #FFCC00; color: #2e2e2e; padding: 12px 24px; margin: 5px; text-decoration: none; border-radius: 5px; font-weight: bold;">📚 Education & Research</a>
-  <a href="publications.html" style="display: inline-block; background-color: #FFCC00; color: #2e2e2e; padding: 12px 24px; margin: 5px; text-decoration: none; border-radius: 5px; font-weight: bold;">📄 Publications</a>
-  <a href="teaching.html" style="display: inline-block; background-color: #FFCC00; color: #2e2e2e; padding: 12px 24px; margin: 5px; text-decoration: none; border-radius: 5px; font-weight: bold;">🎯 Teaching</a>
-  <a href="skills.html" style="display: inline-block; background-color: #FFCC00; color: #2e2e2e; padding: 12px 24px; margin: 5px; text-decoration: none; border-radius: 5px; font-weight: bold;">💻 Skills</a>
-  <a href="professional.html" style="display: inline-block; background-color: #FFCC00; color: #2e2e2e; padding: 12px 24px; margin: 5px; text-decoration: none; border-radius: 5px; font-weight: bold;">💼 Professional</a>
-</div>
 
 ---
 

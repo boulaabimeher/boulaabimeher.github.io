@@ -3,19 +3,28 @@
 
 @import "{{ site.theme }}";
 
-/* Hide the default ZIP/TAR download buttons */
-#banner .downloads {
+/* HIDE ZIP/TAR DOWNLOAD BUTTONS - Multiple approaches for maximum effectiveness */
+#banner .downloads,
+#banner .downloads ul,
+#banner .downloads span,
+.downloads,
+a[href*="zipball"],
+a[href*="tarball"] {
   display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+  height: 0 !important;
+  width: 0 !important;
+  overflow: hidden !important;
+}
+
+/* Adjust banner spacing */
+#banner {
+  min-height: 0 !important;
 }
 
 #banner a.button.fork {
-  margin-right: 10px;
-}
-
-/* Add custom Download CV button after View on GitHub */
-#banner::after {
-  content: '';
-  display: block;
+  margin-right: 0;
 }
 
 /* Profile image border with theme color */
@@ -30,12 +39,12 @@ img[alt="Meher BOULAABI"]:hover {
 }
 
 /* Navigation buttons styling */
-a[href*=".html"] {
+a[href$=".html"] {
   transition: all 0.3s ease;
 }
 
-a[href*=".html"]:hover {
-  opacity: 0.8;
+a[href$=".html"]:hover {
+  opacity: 0.85;
   transform: translateY(-2px);
 }
 
