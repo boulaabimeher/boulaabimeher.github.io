@@ -3,7 +3,20 @@
 
 @import "{{ site.theme }}";
 
-/* Custom styling for portfolio */
+/* Hide the default ZIP/TAR download buttons */
+#banner .downloads {
+  display: none !important;
+}
+
+#banner a.button.fork {
+  margin-right: 10px;
+}
+
+/* Add custom Download CV button after View on GitHub */
+#banner::after {
+  content: '';
+  display: block;
+}
 
 /* Profile image border with theme color */
 img[alt="Meher BOULAABI"] {

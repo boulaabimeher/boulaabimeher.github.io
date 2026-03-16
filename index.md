@@ -7,6 +7,10 @@ layout: default
 </div>
 
 <div align="center" style="margin: 20px 0;">
+  <a href="/CV.pdf" download style="display: inline-block; background-color: #FFCC00; color: #2e2e2e; padding: 10px 30px; text-decoration: none; border-radius: 5px; font-weight: bold; margin: 10px 0;">📄 Download CV (PDF)</a>
+</div>
+
+<div align="center" style="margin: 20px 0;">
   <a href="https://www.linkedin.com/in/boulaabi-meher/" style="margin: 0 10px;">LinkedIn</a> |
   <a href="https://orcid.org/0009-0000-6773-2781" style="margin: 0 10px;">ORCID</a> |
   <a href="https://www.researchgate.net/profile/Boulaabi-Meher" style="margin: 0 10px;">ResearchGate</a> |
