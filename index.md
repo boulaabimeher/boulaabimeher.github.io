@@ -1,293 +1,89 @@
+---
+layout: default
+---
+
+# Welcome to My Academic Portfolio
+
+<div align="center">
+  <img src="images/me_croped.jpg" alt="Meher BOULAABI" width="200" style="border-radius: 50%; border: 3px solid #e8491d;">
+</div>
+
 ## 📚 Academic Profiles
-[LinkedIn](https://www.linkedin.com/in/boulaabi-meher/) | [ORCID](https://orcid.org/0009-0000-6773-2781) | [ResearchGate](https://www.researchgate.net/profile/Boulaabi-Meher) | [Google Scholar](https://scholar.google.com/citations?user=9trlmwkAAAAJ&hl=en&oi=ao) | [DBLP](https://dblp.org/pid/401/1365.html) | [GitHub](https://github.com/boulaabimeher) | [Website](https://boulaabimeher.github.io/)
+
+[LinkedIn](https://www.linkedin.com/in/boulaabi-meher/) | [ORCID: 0009-0000-6773-2781](https://orcid.org/0009-0000-6773-2781) | [ResearchGate](https://www.researchgate.net/profile/Boulaabi-Meher) | [Google Scholar](https://scholar.google.com/citations?user=9trlmwkAAAAJ) | [GitHub](https://github.com/boulaabimeher) | [Email](mailto:boulaabi@cril.fr)
 
 ---
 
-## 👤 About Me
+## 👤 Research Profile
 
-I am a PhD researcher in Computer Science specializing in Artificial Intelligence for healthcare, with a strong focus on medical image analysis and explainable AI. I am currently an invited PhD researcher at **CRIL (UMR 8188)**, working on Concept Bottleneck Models (CBMs) for interpretable medical imaging. My research aims to bridge the gap between high-performance deep learning models and clinically meaningful decision support systems. I have published my work in recognized international conferences, including AIME 2025 and IEEE AICCSA 2024.
+Doctoral researcher specializing in **interpretable deep learning for medical imaging**, with focus on vision transformers and explainable AI. Published first-author papers at **AIME 2025** and **IEEE AICCSA 2024**. 
 
-**Research Focus**
-My current research focuses on interpretable medical imaging using Concept Bottleneck Models, with particular interest in concept-based representations and clinically grounded explanations.
+**Teaching Experience:** 63h of TD/TP in AI, machine learning, and computer vision, delivered in French and English at university level through an academic training project. 
 
-**Career Objective**
-I am actively seeking an ATER (Attaché Temporaire d'Enseignement et de Recherche) position to further develop my research in interpretability and explainable AI, while contributing to academic teaching. I am highly motivated to teach courses in machine learning, deep learning, computer vision, and AI for healthcare, and to share my research experience with the next generation of students.
-An ATER position would allow me to strengthen my academic pedagogy and build a solid academic career in France, within a research and teaching environment in which I am highly motivated to contribute.
+**Current Supervision:** Co-supervising 3 Master's students in medical imaging and NLP research.
 
----
+### Research Focus
 
-## 💻 Technical Skills
+My current research focuses on developing **Concept Bottleneck Models (CBMs)** for interpretable medical imaging, with particular emphasis on creating clinician-verifiable reasoning systems that bridge high-performance deep learning with explainable clinical decision support.
 
-**Programming Languages**  
-Python, MATLAB, SQL
+### Career Objective
 
-**Machine Learning & AI**  
-Deep Learning, Computer Vision, Concept Bottleneck Models (CBM), Large Language Models (LLM), Transformer Models, Model Interpretability, Explainable AI (XAI)
-
-**Frameworks & Libraries**  
-TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, NumPy, OpenCV, Streamlit, Hugging Face Transformers
-
-**Visualization Tools**  
-Matplotlib, Seaborn, Jupyter Notebooks
-
-**Research Skills**  
-Data Preprocessing, Model Optimization, Hyperparameter Tuning, Medical Image Analysis, Research Design, Ablation Studies
-
-**Soft Skills**  
-Research Communication, Academic Teaching, Team Collaboration, Project Management, Critical Thinking, Adaptability, Mentoring & Supervision
+I am actively seeking an **ATER (Attaché Temporaire d'Enseignement et de Recherche)** position to further develop my research in interpretability and explainable AI while contributing to academic teaching. I am highly motivated to teach courses in machine learning, deep learning, computer vision, and AI for healthcare, sharing my research experience with the next generation of students.
 
 ---
 
-## 🔬 Research Interests
+## 🎯 Quick Links
 
-- **Artificial Intelligence in Healthcare**
-- **Computer Vision**
-- **Concept Bottleneck Models**
-- **Medical Image Analysis**
-- **Large Language Models (LLMs)**
-- **Deep Learning & Transformer Models**
-- **Explainable AI (XAI) & Model Interpretability**
+- **[Education & Research Experience](education.html)** - Academic background and research positions
+- **[Publications & Supervision](publications.html)** - Research papers and student mentoring
+- **[Teaching Experience](teaching.html)** - Courses taught and training programs
+- **[Technical Skills](skills.html)** - Programming, frameworks, and tools
+- **[Professional Activities](professional.html)** - Industry experience and certifications
 
 ---
 
-## 🎓 Education
+## 🔬 Recent Highlights
 
-### [Faculty of Sciences of Monastir, University of Monastir](https://fsm.rnu.tn/)
-**PhD in Computer Science - AI in Healthcare**  
-*September 2023 - December 2026*  
-Monastir, Tunisia
+### 📄 Latest Publications
 
-Research focus: Developing intelligent systems for ocular disease diagnosis using artificial intelligence and medical imaging techniques.
+**Enhancing Diabetic Retinopathy Classification with Swin Transformer** (AIME 2025)  
+First-author paper achieving 97.40% accuracy on IDRiD dataset using Swin Transformer architecture.
 
-### [Higher National Engineering School of Tunis (ENSIT)](https://www.ensit.tn/)
-**Master's Degree in Computer Science (M2)**  
-*September 2022 - October 2023*  
-Tunis, Tunisia
+**Advanced Segmentation of Diabetic Retinopathy Lesions** (IEEE AICCSA 2024)  
+First-author paper achieving 99% segmentation accuracy using DeepLabv3+ on IDRiD dataset.
 
-Final Project: Achieved 90% accuracy in diabetic retinopathy lesion segmentation and 91% accuracy in disease classification using the IDRiD dataset. Implemented advanced Transformer and CNN architectures demonstrating state-of-the-art performance in medical imaging.
+### 🔍 Current Research
 
-### [Higher Institute of Applied Sciences and Technology of Kasserine](https://issatkas.rnu.tn/)
-**Master's Degree in Embedded Systems (M1+M2)**  
-*September 2021 - March 2024*  
-Kasserine, Tunisia
+Working at **CNRS CRIL UMR 8188** (France) on developing Concept Bottleneck Models for interpretable medical imaging with clinician-verifiable reasoning.
 
-Final Project: Achieved 99% accuracy in predicting industrial system faults through signal detection and fault classification. Extensive exploration of machine learning models including Random Forest, Decision Tree, SVM, and optimization techniques.
+### 👥 Student Supervision
 
-### [Higher Institute of Applied Sciences and Technology of Mahdia](https://issatmh.rnu.tn/)
-**Applied License in Computer Science and Electronics**  
-*September 2014 - May 2017*  
-Mahdia, Tunisia
-
-Final Project: Developed "Strategia," a platform for entrepreneurs to create business plans, receiving the highest distinction (19/20) in the institute. Collaborated with international teams in Canada and France.
+Currently co-supervising 3 M2 students:
+- Automated Melanoma Detection using Deep CNNs
+- Comparative Analysis of Architectures for DR Detection with XAI
+- Fine-Tuning LLMs for English-Arabic Medical Translation
 
 ---
 
-## 🔍 Research Experience
+## 📊 GitHub Statistics
 
-### AI Researcher - Interpretable Medical Imaging (Concept Bottleneck Models)
-**[CNRS CRIL UMR 8188](https://www.cril.univ-artois.fr/en/), Artois University, France**  
-*September 2025 - Present*
-
-- Implementing Concept Bottleneck Model (CBM) focused on model interpretability for medical imaging applications
-- Mastered LLM implementation with Hugging Face Transformers (Phi2, LLAMA, BERT variants, distillation)
-- Debugged 5+ Python projects on CRIL computing cluster for large-scale medical imaging analysis
-
-### AI Researcher - Transformers & Medical Imaging
-**[CNRS CRIL UMR 8188](https://www.cril.univ-artois.fr/en/), Artois University, France**  
-*September 2024 - March 2025*
-
-- Published research paper "Enhancing DR Classification with Swin Transformer and Shifted Window Attention" accepted at AIME 2025
-- Developed robust preprocessing pipeline (CLAHE, cropping, data augmentation) improving model generalization by 20%
-- Achieved 89.65% accuracy on APTOS dataset and 97.40% accuracy on IDRiD dataset using Swin Transformer architecture
-
-### AI Researcher - Computer Vision (DeepLabv3+)
-**[LaTICE Laboratory](http://www.latice.rnu.tn/), ENSIT, Tunisia**  
-*January 2024 - Present*
-
-- Published research paper "Advanced Segmentation of Diabetic Retinopathy Lesions Using DeepLabv3+" accepted at AICCSA 2024
-- Trained and evaluated DeepLabv3+ on IDRiD dataset, achieving 99% segmentation accuracy
-- Applied advanced preprocessing techniques: cropping + CLAHE on LAB (L-channel) to enhance contrast and lesion boundaries
-
-### AI Researcher - Signal Processing & Machine Learning
-**[ETSEIB, UPC Barcelona](https://www.upc.edu/en), Spain**  
-*October 2023 - January 2024*
-
-- Built Streamlit interface for fault prediction system, reducing analysis time and improving accessibility
-- Conducted ablation study using TensorFlow-based ML algorithms (KNN, Decision Tree, SVM, Random Forest) achieving 99% F1 score with 20% accuracy improvement
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=boulaabimeher&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boulaabimeher&layout=compact&theme=radical" alt="Top Languages" width="48%">
+</div>
 
 ---
 
-## 📄 Publications
+## 📫 Contact Information
 
-### [Enhancing DR Classification with Swin Transformer and Shifted Window Attention](https://link.springer.com/chapter/10.1007/978-3-031-95841-0_11)
-**AIME 2025** - Artificial Intelligence in Medicine Europe Conference  
-*Published 2025*
+**Email:** [boulaabi@cril.fr](mailto:boulaabi@cril.fr)  
+**Location:** Lens, Hauts-de-France, France  
+**Phone:** +33 7 82 92 00 74
 
-Novel approach to diabetic retinopathy classification using Swin Transformer architecture with shifted window attention mechanism. Achieved state-of-the-art results on multiple benchmark datasets.
-
-### [Advanced Segmentation of Diabetic Retinopathy Lesions Using DeepLabv3+](https://ieeexplore.ieee.org/document/10912539)
-**AICCSA 2024** - IEEE/ACS International Conference on Computer Systems and Applications  
-*Published 2024*
-
-Comprehensive study on lesion segmentation in diabetic retinopathy using DeepLabv3+ architecture. Demonstrated exceptional performance with 99% accuracy on IDRiD dataset.
+**Expected PhD Defense:** December 2026
 
 ---
 
-## 👥 Supervision & Mentoring
-
-### Master's Thesis Supervisor (M2)
-**[University of Tunis, ENSIT](https://www.ensit.tn/)**  
-*March 2026 - Present*
-
-**Current Supervision Projects:**
-
-1. **Automated Skin Cancer Detection using AI**  
-   Supervising M2 student in developing deep learning models for dermatological image analysis
-
-2. **Classification and Segmentation of Diabetic Retinopathy Images: Comparative Analysis and Explainability**  
-   Supervising M2 student in advanced medical image processing with XAI techniques
-
-3. **Deploying an English-Arabic Translator Using Large Language Models**  
-   Co-supervising research team on dataset creation and model deployment, in collaboration with Union of Arab Scientific Research Councils (Upcoming)
-
----
-
-## 💼 Professional Experience
-
-### IT Manager & Digital Marketing Lead
-**[Polygrillage](https://polygrillage.com/)**  
-*February 2025 - August 2026*
-
-- Developed and deployed full-stack e-commerce website using WordPress CMS with premium templates on Hostinger infrastructure
-- Implemented comprehensive security extensions, SEO optimization, and designed product catalogue
-- Created complete brand identity including promotional materials using Adobe Photoshop, Illustrator, and Canva Pro
-- Produced marketing video content using Adobe Premiere Pro and Filmora for social media campaigns
-- Managed Meta Ads campaigns, growing company's social media presence from 0 to 9k+ followers in 3 months ([Grillux](https://www.facebook.com/share/1DQi3BJQPo/))
-- Generated significant agricultural product sales through strategic digital marketing
-
-### Senior Media Buyer - Meta Platforms
-**Freelance**  
-*January 2022 - August 2025*
-
-- Managed 70+ advertising campaigns across Facebook, Instagram, and WhatsApp for diverse sectors including electronics, agriculture, and cosmetics
-- Generated 300 product orders through strategic targeting and retargeting techniques with optimized conversion funnels
-- Developed comprehensive growth strategies resulting in 30,000+ total followers across client pages and 10M+ impressions
-- Conducted competitive analysis and market research to identify opportunities and develop data-driven strategies
-- Achieved industry-leading cost efficiency with €0.02 per message through continuous campaign optimization and A/B testing
-
-### Solutions Architect & Designer
-**Freelance**  
-*2020 - 2023*
-
-- Collaborated with 10+ organizations providing tailored solutions in reporting, design, and development
-- Achieved 95% client satisfaction through customized technical solutions
-- Improved project delivery timelines by 20% through implementation of feedback mechanisms
-
-### Digital Marketing & E-commerce Specialist
-**Fiverr**  
-*January 2018 - January 2020*
-
-- Achieved Level 2 seller status with 150+ completed orders in e-commerce design and Amazon product videos
-- Increased customer engagement by 12% through strategic video marketing and site design
-
----
-
-## 🎯 Teaching Experience
-
-### Technical Training & Workshops
-**[Association Jeune Actif](https://jamaity.org/association/association-jeunes-actifs-kasserine/)**  
-*March 2024 - July 2024*
-
-Delivered comprehensive technical training programs across multiple domains to 7 groups:
-
-| Track | Subject | Hours (TOT) | Groups | Description |
-|-------|---------|-------------|--------|-------------|
-| **AI & ML** | Advanced Python for ML | 20h | 2 | End-to-end ML project development using VS Code, Google Colab; frameworks: Pandas, Scikit-learn, Seaborn, OpenCV |
-| **AI & ML** | Computer Vision & Classification | 20h | 1 | Image classification (binary & multi-class), deep learning architectures, practical CV applications |
-| **AI & ML** | CNN & Deep Learning | 15h | 1 | Convolutional Neural Networks, model architectures, transfer learning, optimization techniques |
-| **AI & ML** | AI in Healthcare | 9h | 3 | Medical imaging, disease diagnosis |
-| **Programming** | Linux System Administration | 15h | 3 | Installation, command line, shell scripting, system configuration |
-| **Programming** | Advanced Python Programming | 30h | 1 | Best practices for ML development |
-| **Programming** | Data Analysis & Visualization | 21h | 3 | Exploratory data analysis, Matplotlib, Seaborn, Jupyter workflows |
-| **Professional** | Digital Marketing & Meta Ads | 9h | 3 | Campaign strategy, audience targeting, A/B testing, analytics, read metrics |
-| **Professional** | Graphic Design & Communication | 9h | 3 | Adobe Suite (Photoshop, Illustrator), Canva Pro, visual branding, promotional materials |
-
-**Total Impact:** 148+ training hours delivered across 9 subjects
-
-### Corporate Technical Training
-**Polygrillage & Grillux**  
-*May 2025*
-
-**WordPress E-commerce Management (6 hours)**  
-Trained Polygrillage staff on custom website administration including product management, order processing, and user management
-
-**Meta Advertising & Competitive Analysis (5 hours)**  
-Trained Grillux company staff on Meta platform analytics, competitor data extraction, and strategic ad campaign development
-
----
-
-## 📜 Certifications
-
-[View all credentials on LinkedIn](https://fr.linkedin.com/in/boulaabi-meher/fr)
-
-### AI & Machine Learning
-- Building Transformer-Based NLP Applications (NVIDIA, In Progress)
-- Fine Tuning LLM with Hugging Face Transformers (Udemy, In Progress)
-- Introduction to Large Language Models (LinkedIn Learning, 2025)
-- Convolutional Neural Networks in TensorFlow (DeepLearning.AI, 2024)
-- AI for Medical Diagnosis (DeepLearning.AI, 2023)
-- Supervised Machine Learning: Regression and Classification (DeepLearning.AI, 2023)
-
-### Programming & Data Analysis
-- Python Programming Bootcamp from Basics to Advanced (Udemy, 2023)
-- Introduction to Career Skills in Data Analytics (LinkedIn Learning, 2023)
-- Power BI for Beginners (Simplilearn, 2023)
-- Introduction to Web Development (Udemy, 2021)
-- HTML5 In Depth With Real World Examples (Udemy, 2021)
-- HTML & CSS Certification Course for Beginners (Udemy, 2021)
-
-### Business & Entrepreneurship
-- Entrepreneurship, Social Innovation, Communication, Management, and Leadership (U.S. Embassy Tunis, 2017)
-- Design Thinking, Business Model Development & Pitch Presentation (GIZ GmbH, 2017)
-- Build Your Business (EFE-ACADEMY TUNISIE, 2017)
-
-### Creative & Multimedia
-- After Effects CC for Beginners (Udemy, 2018)
-
-### Conference Participation
-- ACS/IEEE AICCSA 2024
-- AIME 2025
-
----
-
-## 🌐 Languages
-
-- **Arabic:** Native proficiency
-- **English:** Full professional proficiency
-- **French:** Full professional proficiency
-
----
-
-## 🏆 Awards & Volunteering
-
-### Elite Freelancer Participant - Tunisia Program
-**[Uprodit](https://www.facebook.com/uprodit/)**  
-*February 2023 - April 2023*
-
-Selected among 20 elite freelancers in Tunisia for intensive training in communication and leadership. Presented work under the patronage of Madame la Cheffe du Gouvernement Najla Bouden and engaged with influential government and business figures. This program fostered invaluable connections and aimed to shape the future of freelancing in Tunisia.
-
-### Club Project Manager
-**[Young Leaders Entrepreneurs](https://www.facebook.com/Youngleadersentrepreneurs/)**  
-*January 2017 - January 2018*
-
-Project Manager of "Peace Lab Kasserine," established in a disadvantaged region of Tunisia. Led initiatives to empower youth and promote peace, art, and theater. Implemented programs fostering communication, community involvement, and socio-economic development. Engaged over 100 young individuals in various activities including collecting gifts for cancer-stricken children and organizing internships.
-
-### Active Theatre Artist and Cultural Animator
-**[Ministry of Culture of Tunisia](https://www.culture.gov.tn/)**  
-*January 2010 - January 2015*
-
-Led and organized over 100 community projects, internships, and large-scale summer programs across Tunisia. Collaborated with the Ministry of Culture and Ministry of Education on cultural development initiatives. These experiences fostered a deep commitment to societal change and cultural development.
-
----
-
-*Last updated: February 2026*
+<div align="center">
+  <i>Last updated: February 2026</i>
+</div>
