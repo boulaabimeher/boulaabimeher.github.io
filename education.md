@@ -17,8 +17,10 @@ title: Education & Research Experience
 Monastir, Tunisia
 
 - **Thesis:** Explainable and Interpretable Deep Learning Models for Medical Image Diagnosis
-- **Advisors:** Prof. Afef Kacem ECHI (LaTICE) and Prof. Zied Bouraoui (CNRS CRIL)
-- Research focus: Developing intelligent systems for ocular disease diagnosis using artificial intelligence and medical imaging techniques with emphasis on interpretability and clinical applicability
+- **Co-supervisors:** Prof. Afef Kacem Echi (LaTICE Laboratory, Tunisia) and Prof. Zied Bouraoui (CNRS CRIL, France)
+- **Research Focus:** Designing clinical decision support systems that are both high-performing and interpretable by healthcare practitioners
+- **Key Areas:** Deep learning, model explainability (XAI), ophthalmic imaging, Vision Transformers, Concept Bottleneck Models
+- **Laboratory:** LaTICE (Laboratoire des Technologies de l'Information et de la Communication et de l'Informatique), Faculty of Sciences of Monastir
 
 ### [Higher National Engineering School of Tunis (ENSIT)](https://www.ensit.tn/)
 **Master of Science (M2) in Computer Science**  

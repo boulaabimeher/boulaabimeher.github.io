@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div align="center">
-  <img src="images/me_croped.jpeg" alt="Meher BOULAABI" width="200" style="border-radius: 50%; border: 4px solid #FFCC00; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  <img src="images/me_croped.jpg" alt="Meher BOULAABI" width="200" style="border-radius: 50%; border: 4px solid #FFCC00; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
 </div>
 
 <div align="center" style="margin: 20px 0;">
@@ -33,19 +33,25 @@ layout: default
 
 ## 👤 Research Profile
 
-Doctoral researcher specializing in **interpretable deep learning for medical imaging**, with focus on vision transformers and explainable AI. Published first-author papers at **AIME 2025** and **IEEE AICCSA 2024**. 
+Doctoral researcher in Computer Science, specializing in artificial intelligence applied to healthcare, at LaTICE Laboratory (Faculty of Sciences of Monastir, University of Monastir, Tunisia), under the co-supervision of Prof. Afef Kacem Echi (LaTICE, Tunisia) and Prof. Zied Bouraoui (CNRS CRIL, France).
 
-**Teaching Experience:** 63h of TD/TP in AI, machine learning, and computer vision, delivered in French and English at university level through an academic training project. 
+**Doctoral Thesis:** "Explainable and Interpretable Deep Learning Models for Medical Image Diagnosis"
 
-**Current Supervision:** Co-supervising 3 Master's students in medical imaging and NLP research.
+My research sits at the intersection of deep learning, model explainability (XAI), and ophthalmic imaging. The doctoral project aims to design clinical decision support systems that are not only high-performing but also interpretable by healthcare practitioners, leveraging advanced computer vision techniques (Vision Transformers, deep convolutional networks), transfer learning, and explainability methods (Grad-CAM, LIME, SHAP, Concept Bottleneck Models).
+
+**Teaching Experience:** 289+ hours across multiple institutions (ISI Mahdia, ENSIT Tunis, Association Jeune Actif), covering subjects from fundamental programming (L1) to advanced deep learning (M2), delivered in French and English.
+
+**Current Supervision:** Co-supervising 2 Master's students at ENSIT on medical imaging and XAI research.
 
 ### Research Focus
 
-My current research focuses on developing **Concept Bottleneck Models (CBMs)** for interpretable medical imaging, with particular emphasis on creating clinician-verifiable reasoning systems that bridge high-performance deep learning with explainable clinical decision support.
+My current research focuses on developing **Concept Bottleneck Models (CBM)** for interpretable medical imaging. Unlike post-hoc methods (Grad-CAM, SHAP), CBMs integrate explainability directly into the model architecture by forcing the model to reason through interpretable concepts before producing a final prediction. This research also leverages LLMs to generate textual explanations from detected concepts, creating an interface between automatic prediction and medical expertise.
 
 ### Career Objective
 
-I am actively seeking an **ATER (Attaché Temporaire d'Enseignement et de Recherche)** position to further develop my research in interpretability and explainable AI while contributing to academic teaching. I am highly motivated to teach courses in machine learning, deep learning, computer vision, and AI for healthcare, sharing my research experience with the next generation of students.
+I am actively seeking an **ATER (Attaché Temporaire d'Enseignement et de Recherche)** position to further develop my research in interpretability and explainable AI while contributing to academic teaching. My multidisciplinary academic background (Master in Computer Science from ENSIT and Master in Embedded Systems from ISSATK, built upon a License in Computer Science and Electronics) provides me with broad technical expertise covering networks and telecommunications, web and mobile development, system and embedded programming, databases, operating systems, and digital electronics.
+
+This versatility, combined with deep specialization in AI and model explainability, represents a decisive pedagogical asset for an ATER position: it enables me to teach with confidence and legitimacy across a wide variety of modules, from fundamental courses at License level to advanced Master modules (machine learning, deep learning, big data, signal processing), well beyond my specific research specialty.
 
 ---
 

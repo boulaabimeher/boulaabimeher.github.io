@@ -85,54 +85,56 @@ Development of an interpretable deep learning framework based on Concept Bottlen
 
 ## 👥 Supervision & Mentoring
 
-### Master's Thesis Co-Supervision (3 M2 Students)
+### Master's Thesis Co-Supervision (2 M2 Students)
 **[University of Tunis, ENSIT](https://www.ensit.tn/)**  
-*February 2025 - December 2026*
+*January 2025 - December 2026*
+
+Co-supervising two Master 2 students on their end-of-studies theses. This supervision activity involves weekly follow-up, methodological guidance, critical review of experimental results, and preparation of students for oral defense.
 
 ---
 
 ### Thesis 1: Automated Melanoma Detection using Deep CNNs
 
 **Student:** M2 Research Student  
-**Duration:** February 2025 - December 2026  
+**Duration:** January 2025 - December 2026  
 **Focus:** Dermatological Image Analysis with Explainable AI
 
 **Research Objectives:**
-- Design comprehensive research protocol for melanoma detection
+- Supervise complete research protocol for melanoma detection
 - Implement ensemble architectures (ResNet, EfficientNet, Vision Transformers)
-- Develop Grad-CAM explainability framework
-- Validate on HAM10000 dataset (10,000+ dermatological images)
+- Develop Grad-CAM explainability framework on HAM10000 dataset (10,000+ dermatoscopic images)
+- Guide from preprocessing to cross-validation
 
-**Key Deliverables:**
+**Supervision Activities:**
+- Weekly meetings for progress review and methodological guidance
+- Critical review of experimental results
+- Preparation for academic writing and oral defense
+- First application of XAI skills acquired during doctoral research to computational dermatology, opening perspectives for joint publication
+
+**Expected Outcomes:**
 - Comparative analysis of CNN and Transformer architectures
 - Explainability dashboard for clinical decision support
 - Cross-validation across multiple skin lesion datasets
-- Production-ready deployment pipeline
-
-**Skills Developed:**
-- Medical image preprocessing and augmentation
-- Ensemble learning techniques
-- Explainable AI implementation
-- Clinical validation methodologies
+- Potential joint publication
 
 ---
 
-### Thesis 2: Comparative Analysis of Architectures for DR Detection with XAI
+### Thesis 2: Comparative Analysis of CNNs vs. Transformers for Diabetic Retinopathy Detection with XAI
 
 **Student:** M2 Research Student  
-**Duration:** February 2025 - December 2026  
-**Focus:** Diabetic Retinopathy Detection with Interpretability
+**Duration:** January 2025 - December 2026  
+**Focus:** Diabetic Retinopathy Detection with Multi-level Explainability
 
 **Research Objectives:**
-- Systematic comparison of CNN vs. Transformer architectures
+- Systematic comparison of CNN vs. Transformer architectures (ResNet, EfficientNet, ViT, Swin)
 - Implementation of multiple explainability methods (Grad-CAM++, LIME, SHAP)
-- Cross-dataset evaluation and robustness analysis
+- Cross-dataset evaluation on APTOS 2019, IDRiD, and Messidor-2
 - Clinical interpretability assessment
 
-**Architecture Comparison:**
-- CNNs: ResNet-50, EfficientNet-B4, DenseNet-121
-- Transformers: Vision Transformer (ViT), Swin Transformer
-- Hybrid models: CNN-Transformer combinations
+**Supervision Framework:**
+- This thesis directly extends doctoral research and benefits from proven methodological framework
+- Focus on rapid and rigorous student progression
+- Guidance through complete ML pipeline from data acquisition to clinical validation
 
 **XAI Methods:**
 - Grad-CAM++ for visual explanations
@@ -144,38 +146,7 @@ Development of an interpretable deep learning framework based on Concept Bottlen
 - Comprehensive benchmark study
 - Best practices for DR detection
 - Interpretability guidelines for clinical deployment
-
----
-
-### Thesis 3: Fine-Tuning LLMs for English-Arabic Medical Translation
-
-**Student:** M2 Research Student  
-**Duration:** February 2025 - December 2026  
-**Focus:** Multilingual Medical NLP  
-**Collaboration:** Union of Arab Scientific Research Councils
-
-**Research Objectives:**
-- Domain adaptation of multilingual models (mT5, mBART)
-- Implementation of LoRA (Low-Rank Adaptation) for efficient fine-tuning
-- Creation of specialized English-Arabic medical translation dataset
-- Development of deployment strategy for clinical settings
-
-**Technical Approach:**
-- Parameter-efficient fine-tuning with LoRA
-- Medical terminology alignment
-- Quality evaluation metrics for translation
-- Clinical validation with domain experts
-
-**Dataset Development:**
-- Curated medical literature corpus
-- Clinical report translations
-- Medical terminology glossary
-- Quality assurance pipeline
-
-**Expected Impact:**
-- Bridge language barriers in medical research
-- Enable Arabic-speaking clinicians to access English medical literature
-- Contribute to multilingual medical NLP research
+- Potential publication in medical AI venue
 
 ---
 
