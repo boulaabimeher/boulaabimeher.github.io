@@ -2,15 +2,18 @@
 layout: default
 ---
 
-# Welcome to My Academic Portfolio
-
 <div align="center">
-  <img src="images/me_croped.jpg" alt="Meher BOULAABI" width="200" style="border-radius: 50%; border: 3px solid #e8491d;">
+  <img src="images/me_croped.jpg" alt="Meher BOULAABI" width="200" style="border-radius: 50%; border: 4px solid #FFCC00; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
 </div>
 
-## 📚 Academic Profiles
-
-[LinkedIn](https://www.linkedin.com/in/boulaabi-meher/) | [ORCID: 0009-0000-6773-2781](https://orcid.org/0009-0000-6773-2781) | [ResearchGate](https://www.researchgate.net/profile/Boulaabi-Meher) | [Google Scholar](https://scholar.google.com/citations?user=9trlmwkAAAAJ) | [GitHub](https://github.com/boulaabimeher) | [Email](mailto:boulaabi@cril.fr)
+<div align="center" style="margin: 20px 0;">
+  <a href="https://www.linkedin.com/in/boulaabi-meher/" style="margin: 0 10px;">LinkedIn</a> |
+  <a href="https://orcid.org/0009-0000-6773-2781" style="margin: 0 10px;">ORCID</a> |
+  <a href="https://www.researchgate.net/profile/Boulaabi-Meher" style="margin: 0 10px;">ResearchGate</a> |
+  <a href="https://scholar.google.com/citations?user=9trlmwkAAAAJ" style="margin: 0 10px;">Google Scholar</a> |
+  <a href="https://github.com/boulaabimeher" style="margin: 0 10px;">GitHub</a> |
+  <a href="mailto:boulaabi@cril.fr" style="margin: 0 10px;">Email</a>
+</div>
 
 ---
 
@@ -32,13 +35,13 @@ I am actively seeking an **ATER (Attaché Temporaire d'Enseignement et de Recher
 
 ---
 
-## 🎯 Quick Links
-
-- **[Education & Research Experience](education.html)** - Academic background and research positions
-- **[Publications & Supervision](publications.html)** - Research papers and student mentoring
-- **[Teaching Experience](teaching.html)** - Courses taught and training programs
-- **[Technical Skills](skills.html)** - Programming, frameworks, and tools
-- **[Professional Activities](professional.html)** - Industry experience and certifications
+<div align="center" style="margin: 30px 0;">
+  <a href="education.html" style="display: inline-block; background-color: #FFCC00; color: #2e2e2e; padding: 12px 24px; margin: 5px; text-decoration: none; border-radius: 5px; font-weight: bold;">📚 Education & Research</a>
+  <a href="publications.html" style="display: inline-block; background-color: #FFCC00; color: #2e2e2e; padding: 12px 24px; margin: 5px; text-decoration: none; border-radius: 5px; font-weight: bold;">📄 Publications</a>
+  <a href="teaching.html" style="display: inline-block; background-color: #FFCC00; color: #2e2e2e; padding: 12px 24px; margin: 5px; text-decoration: none; border-radius: 5px; font-weight: bold;">🎯 Teaching</a>
+  <a href="skills.html" style="display: inline-block; background-color: #FFCC00; color: #2e2e2e; padding: 12px 24px; margin: 5px; text-decoration: none; border-radius: 5px; font-weight: bold;">💻 Skills</a>
+  <a href="professional.html" style="display: inline-block; background-color: #FFCC00; color: #2e2e2e; padding: 12px 24px; margin: 5px; text-decoration: none; border-radius: 5px; font-weight: bold;">💼 Professional</a>
+</div>
 
 ---
 

@@ -1,0 +1,44 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Custom styling for portfolio */
+
+/* Profile image border with theme color */
+img[alt="Meher BOULAABI"] {
+  border: 4px solid #FFCC00 !important;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+  transition: transform 0.3s ease;
+}
+
+img[alt="Meher BOULAABI"]:hover {
+  transform: scale(1.05);
+}
+
+/* Navigation buttons styling */
+a[href*=".html"] {
+  transition: all 0.3s ease;
+}
+
+a[href*=".html"]:hover {
+  opacity: 0.8;
+  transform: translateY(-2px);
+}
+
+/* Better spacing for sections */
+h2 {
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+
+/* Academic profiles links */
+div[align="center"] a {
+  color: #FFCC00;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+div[align="center"] a:hover {
+  text-decoration: underline;
+}

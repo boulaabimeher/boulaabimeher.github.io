@@ -21,7 +21,7 @@ linkedin_username: boulaabi-meher
 # Navigation
 show_downloads: true
 download_cv_text: "Download CV"
-download_cv_url: "https://github.com/boulaabimeher/boulaabimeher.github.io/raw/master/CV_Meher_BOULAABI.pdf"
+download_cv_url: "/CV.pdf"
 
 # Google Analytics (optional - add your tracking ID if you have one)
 # google_analytics: UA-XXXXXXXXX-X
